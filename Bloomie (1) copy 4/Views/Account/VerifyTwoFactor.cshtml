@@ -1,0 +1,16 @@
+@model dynamic
+@{
+    ViewData["Title"] = "Xác minh Mã 2FA";
+    Layout = "~/Views/Shared/_IdentityLayout.cshtml";
+}
+
+<h2>Xác minh Mã Xác thực</h2>
+<form asp-action="VerifyTwoFactor" method="post">
+    <div class="form-group">
+        <label>Nhập mã xác thực đã gửi đến email của bạn:</label>
+        <input type="text" name="code" class="form-control" />
+        <span class="text-danger">@ViewBag.Error</span>
+        <p>@ViewBag.Message</p>
+    </div>
+    <button type="submit" class="btn btn-primary">Xác minh</button>
+</form>

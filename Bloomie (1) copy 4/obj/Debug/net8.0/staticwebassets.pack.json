@@ -1,0 +1,3041 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/obj/Debug/net8.0/scopedcss/projectbundle/Bloomie.bundle.scp.css",
+      "PackagePath": "staticwebassets/Bloomie.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/014d03dd-90bb-4d1c-b57b-28a62aaf60fc.webp",
+      "PackagePath": "staticwebassets/images/014d03dd-90bb-4d1c-b57b-28a62aaf60fc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/019f21c9-2d87-409f-81b6-edfb9c6a379d.webp",
+      "PackagePath": "staticwebassets/images/019f21c9-2d87-409f-81b6-edfb9c6a379d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/01d936e5-523a-4e27-9238-4e48711d925e.webp",
+      "PackagePath": "staticwebassets/images/01d936e5-523a-4e27-9238-4e48711d925e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/024bb24f-74aa-4d4e-9e54-88105bc5596f.webp",
+      "PackagePath": "staticwebassets/images/024bb24f-74aa-4d4e-9e54-88105bc5596f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0251269b-2b99-459b-9fba-1155e15d6032.webp",
+      "PackagePath": "staticwebassets/images/0251269b-2b99-459b-9fba-1155e15d6032.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/029f5bc6-2e29-4d9b-8961-5729e776d003.webp",
+      "PackagePath": "staticwebassets/images/029f5bc6-2e29-4d9b-8961-5729e776d003.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/02c5cff4-a5fb-4b8f-b71d-e4abc5c4da97.jpg",
+      "PackagePath": "staticwebassets/images/02c5cff4-a5fb-4b8f-b71d-e4abc5c4da97.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/02fb74b1-d06b-474f-8ff2-d0b08df69abc.webp",
+      "PackagePath": "staticwebassets/images/02fb74b1-d06b-474f-8ff2-d0b08df69abc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0392cb62-e8f4-4b10-bcb8-c2065d0d2be3.webp",
+      "PackagePath": "staticwebassets/images/0392cb62-e8f4-4b10-bcb8-c2065d0d2be3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/03dc321a-d33b-4a09-b2bb-559291dba420.webp",
+      "PackagePath": "staticwebassets/images/03dc321a-d33b-4a09-b2bb-559291dba420.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/03f94f50-c5d9-489a-82d6-a716e002c31b.webp",
+      "PackagePath": "staticwebassets/images/03f94f50-c5d9-489a-82d6-a716e002c31b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/04a8c142-dbd4-48a7-8681-e2d852d840ef.webp",
+      "PackagePath": "staticwebassets/images/04a8c142-dbd4-48a7-8681-e2d852d840ef.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/04b72980-0e1e-40b8-be33-257bec1d5bce.jpg",
+      "PackagePath": "staticwebassets/images/04b72980-0e1e-40b8-be33-257bec1d5bce.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/04c57e21-96e3-41e5-b1c5-90030af9bfab.webp",
+      "PackagePath": "staticwebassets/images/04c57e21-96e3-41e5-b1c5-90030af9bfab.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0538d107-899b-4e31-a259-f58acda6e03c.webp",
+      "PackagePath": "staticwebassets/images/0538d107-899b-4e31-a259-f58acda6e03c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0545fd69-2437-4a3b-851b-741270784830.jpg",
+      "PackagePath": "staticwebassets/images/0545fd69-2437-4a3b-851b-741270784830.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0619f742-8f74-40ba-bf3c-cf600fcfa258.jpg",
+      "PackagePath": "staticwebassets/images/0619f742-8f74-40ba-bf3c-cf600fcfa258.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0643960d-d7e0-4710-a272-6205090c1791.webp",
+      "PackagePath": "staticwebassets/images/0643960d-d7e0-4710-a272-6205090c1791.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/066be83a-c02d-4c32-9380-ba9a21c1b3e2.webp",
+      "PackagePath": "staticwebassets/images/066be83a-c02d-4c32-9380-ba9a21c1b3e2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/06a8bdfb-e3f6-4644-a728-7c5e621585c9.jpg",
+      "PackagePath": "staticwebassets/images/06a8bdfb-e3f6-4644-a728-7c5e621585c9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/06cc9603-4a29-4adc-bcaf-9c0038a26c7a.webp",
+      "PackagePath": "staticwebassets/images/06cc9603-4a29-4adc-bcaf-9c0038a26c7a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/070f95cd-7f4b-43f8-a33a-1af1347b84ab.webp",
+      "PackagePath": "staticwebassets/images/070f95cd-7f4b-43f8-a33a-1af1347b84ab.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/079f688f-7dd4-4e1f-8a2b-0b38e6883b83.jpg",
+      "PackagePath": "staticwebassets/images/079f688f-7dd4-4e1f-8a2b-0b38e6883b83.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/07fcf560-05f5-4829-b81a-d1c5881ba2cc.webp",
+      "PackagePath": "staticwebassets/images/07fcf560-05f5-4829-b81a-d1c5881ba2cc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/08243cc8-7393-4876-871b-bd9916bd3c40.webp",
+      "PackagePath": "staticwebassets/images/08243cc8-7393-4876-871b-bd9916bd3c40.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0890debd-82c7-4c1c-b67e-4cc25885b9fb.webp",
+      "PackagePath": "staticwebassets/images/0890debd-82c7-4c1c-b67e-4cc25885b9fb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/08aa36ec-1ea5-4351-b9af-9f68876ac09a.jpg",
+      "PackagePath": "staticwebassets/images/08aa36ec-1ea5-4351-b9af-9f68876ac09a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/08b5d6a9-f832-48ef-83f9-c77016055180.webp",
+      "PackagePath": "staticwebassets/images/08b5d6a9-f832-48ef-83f9-c77016055180.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/08baca5b-6e5b-4e49-9d75-1a417f4c63ac.webp",
+      "PackagePath": "staticwebassets/images/08baca5b-6e5b-4e49-9d75-1a417f4c63ac.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/08be29ae-509c-4941-bb4e-17454e1c29bd.jpg",
+      "PackagePath": "staticwebassets/images/08be29ae-509c-4941-bb4e-17454e1c29bd.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/090c736f-206d-4563-a0d4-d0330332df58.webp",
+      "PackagePath": "staticwebassets/images/090c736f-206d-4563-a0d4-d0330332df58.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/09b3eb7d-bf4a-4ca9-a2c3-9092f3cfa5f9.webp",
+      "PackagePath": "staticwebassets/images/09b3eb7d-bf4a-4ca9-a2c3-9092f3cfa5f9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0a84b6b3-461c-4a6b-b074-0c96962c2ece.webp",
+      "PackagePath": "staticwebassets/images/0a84b6b3-461c-4a6b-b074-0c96962c2ece.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0acf55e3-0b77-42f8-8610-3fb44d27c322.webp",
+      "PackagePath": "staticwebassets/images/0acf55e3-0b77-42f8-8610-3fb44d27c322.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0af70b71-cb8c-4bdc-b160-eafe54e54f12.jpg",
+      "PackagePath": "staticwebassets/images/0af70b71-cb8c-4bdc-b160-eafe54e54f12.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0b0a650c-14ab-4a92-af0a-e269fd1aa90e.webp",
+      "PackagePath": "staticwebassets/images/0b0a650c-14ab-4a92-af0a-e269fd1aa90e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0b622e33-aec4-44e3-88f1-37918bfd22b9.jpg",
+      "PackagePath": "staticwebassets/images/0b622e33-aec4-44e3-88f1-37918bfd22b9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0bb01b69-f140-496d-bdac-0db021fc6c92.jpg",
+      "PackagePath": "staticwebassets/images/0bb01b69-f140-496d-bdac-0db021fc6c92.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0bc829f6-436e-45b5-a864-729ad45d103b.jpg",
+      "PackagePath": "staticwebassets/images/0bc829f6-436e-45b5-a864-729ad45d103b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0bca52c6-6965-4026-92d6-10112656be07.webp",
+      "PackagePath": "staticwebassets/images/0bca52c6-6965-4026-92d6-10112656be07.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0c089dae-3c4d-42ad-9288-af84d8575e09.webp",
+      "PackagePath": "staticwebassets/images/0c089dae-3c4d-42ad-9288-af84d8575e09.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0c435984-40cd-4986-a13e-b9ca3c789136.jpg",
+      "PackagePath": "staticwebassets/images/0c435984-40cd-4986-a13e-b9ca3c789136.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0c7665a2-b55a-42d4-b506-857aed153397.webp",
+      "PackagePath": "staticwebassets/images/0c7665a2-b55a-42d4-b506-857aed153397.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0c867df8-605f-494d-af35-030e3b5b93fa.webp",
+      "PackagePath": "staticwebassets/images/0c867df8-605f-494d-af35-030e3b5b93fa.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0d9fe970-282a-4240-9a57-0aeaae08bf40.jpg",
+      "PackagePath": "staticwebassets/images/0d9fe970-282a-4240-9a57-0aeaae08bf40.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0df930bd-8e7b-4b31-b9bb-e08576d468e9.webp",
+      "PackagePath": "staticwebassets/images/0df930bd-8e7b-4b31-b9bb-e08576d468e9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0e49e918-37c7-4559-a297-3c87b84b14aa.webp",
+      "PackagePath": "staticwebassets/images/0e49e918-37c7-4559-a297-3c87b84b14aa.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0e5ff47d-5e6a-46d2-bcae-18abff6cdb4f.webp",
+      "PackagePath": "staticwebassets/images/0e5ff47d-5e6a-46d2-bcae-18abff6cdb4f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0ee00b49-564b-4daf-96a2-9fa2eb1dae1e.webp",
+      "PackagePath": "staticwebassets/images/0ee00b49-564b-4daf-96a2-9fa2eb1dae1e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0f173f72-1464-4caf-b6c8-e52ee60e6827.jpg",
+      "PackagePath": "staticwebassets/images/0f173f72-1464-4caf-b6c8-e52ee60e6827.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0f2e406a-9f87-4cfa-9ca2-533637499923.webp",
+      "PackagePath": "staticwebassets/images/0f2e406a-9f87-4cfa-9ca2-533637499923.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0f7048be-6b9d-4ac5-bf43-50453e91b844.webp",
+      "PackagePath": "staticwebassets/images/0f7048be-6b9d-4ac5-bf43-50453e91b844.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0fc5ca29-bce3-4d91-9308-e8c0e85f1205.jpg",
+      "PackagePath": "staticwebassets/images/0fc5ca29-bce3-4d91-9308-e8c0e85f1205.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/0fc99ca4-c3ba-4c40-8978-e17895fad102.webp",
+      "PackagePath": "staticwebassets/images/0fc99ca4-c3ba-4c40-8978-e17895fad102.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/10517bea-d151-41c8-b7c1-f3ad238d506f.webp",
+      "PackagePath": "staticwebassets/images/10517bea-d151-41c8-b7c1-f3ad238d506f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/105ad35a-b957-4a45-835f-671ea70224c3.jpg",
+      "PackagePath": "staticwebassets/images/105ad35a-b957-4a45-835f-671ea70224c3.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/10c598d3-6b6f-443d-834a-78a3510ccc26.webp",
+      "PackagePath": "staticwebassets/images/10c598d3-6b6f-443d-834a-78a3510ccc26.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/10ceaae1-7fdc-45be-a056-e881eeb99b6f.webp",
+      "PackagePath": "staticwebassets/images/10ceaae1-7fdc-45be-a056-e881eeb99b6f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/11ebe86f-52c7-431c-b77d-10641a426fcd.jpg",
+      "PackagePath": "staticwebassets/images/11ebe86f-52c7-431c-b77d-10641a426fcd.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/125c4fed-c0c9-4925-8c47-3e518064922f.webp",
+      "PackagePath": "staticwebassets/images/125c4fed-c0c9-4925-8c47-3e518064922f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1262a1a1-fe5d-4bea-a429-d1ac2b4430bf.webp",
+      "PackagePath": "staticwebassets/images/1262a1a1-fe5d-4bea-a429-d1ac2b4430bf.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1276458b-ec84-4369-8910-ae71f7066643.jpg",
+      "PackagePath": "staticwebassets/images/1276458b-ec84-4369-8910-ae71f7066643.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1285c62a-bab2-4cf1-bf9a-47b0d78c48ef.webp",
+      "PackagePath": "staticwebassets/images/1285c62a-bab2-4cf1-bf9a-47b0d78c48ef.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/136242ba-32e0-4999-92d6-5244c386a503.webp",
+      "PackagePath": "staticwebassets/images/136242ba-32e0-4999-92d6-5244c386a503.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/144e7b4a-8833-4dba-8006-6dca901fd640.jpg",
+      "PackagePath": "staticwebassets/images/144e7b4a-8833-4dba-8006-6dca901fd640.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/14ba69cf-ee17-4ecb-8964-3024001fba5b.webp",
+      "PackagePath": "staticwebassets/images/14ba69cf-ee17-4ecb-8964-3024001fba5b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/14e73748-2ad6-4109-934c-9c998750653c.webp",
+      "PackagePath": "staticwebassets/images/14e73748-2ad6-4109-934c-9c998750653c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1555de43-591a-42ab-b655-f464d9c552dc.webp",
+      "PackagePath": "staticwebassets/images/1555de43-591a-42ab-b655-f464d9c552dc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/15b9e9bc-6cf8-4266-a902-815817b2ee65.webp",
+      "PackagePath": "staticwebassets/images/15b9e9bc-6cf8-4266-a902-815817b2ee65.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/15f010ed-fb88-44fd-aaf4-91acbba25fc8.webp",
+      "PackagePath": "staticwebassets/images/15f010ed-fb88-44fd-aaf4-91acbba25fc8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/161211f0-7773-42c3-9f3c-544f7ea2a9c7.webp",
+      "PackagePath": "staticwebassets/images/161211f0-7773-42c3-9f3c-544f7ea2a9c7.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/164ecea2-0294-46d4-be67-5b193d6f8879.jpg",
+      "PackagePath": "staticwebassets/images/164ecea2-0294-46d4-be67-5b193d6f8879.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1653add0-dc15-4d91-af65-0c501290edc6.jpg",
+      "PackagePath": "staticwebassets/images/1653add0-dc15-4d91-af65-0c501290edc6.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1656d053-bc9d-404d-a885-d4d961862765.jpg",
+      "PackagePath": "staticwebassets/images/1656d053-bc9d-404d-a885-d4d961862765.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/16aa4a08-7605-49a8-8364-d5c9da50214a.jpg",
+      "PackagePath": "staticwebassets/images/16aa4a08-7605-49a8-8364-d5c9da50214a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/18e5214a-caae-4d5d-9949-3c7800241d96.jpg",
+      "PackagePath": "staticwebassets/images/18e5214a-caae-4d5d-9949-3c7800241d96.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/197c6616-bf0e-4541-b4ea-8c246ff7c086.webp",
+      "PackagePath": "staticwebassets/images/197c6616-bf0e-4541-b4ea-8c246ff7c086.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/19b1d116-8071-44bb-9f32-d7eca182af17.webp",
+      "PackagePath": "staticwebassets/images/19b1d116-8071-44bb-9f32-d7eca182af17.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1a0daed4-2273-4248-b91d-e9e68fc61170.webp",
+      "PackagePath": "staticwebassets/images/1a0daed4-2273-4248-b91d-e9e68fc61170.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1acaca98-9252-4c56-aaf7-8402ee5ef56f.jpg",
+      "PackagePath": "staticwebassets/images/1acaca98-9252-4c56-aaf7-8402ee5ef56f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1aee58c3-e9b1-426e-a970-da515d31c5f2.webp",
+      "PackagePath": "staticwebassets/images/1aee58c3-e9b1-426e-a970-da515d31c5f2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1bbe435c-dfe9-453e-9837-f5d76f727a6b.webp",
+      "PackagePath": "staticwebassets/images/1bbe435c-dfe9-453e-9837-f5d76f727a6b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1c975d02-795e-4269-a5d0-8eb17f5376ca.webp",
+      "PackagePath": "staticwebassets/images/1c975d02-795e-4269-a5d0-8eb17f5376ca.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1cc75e6a-d7ba-404c-88aa-43922469d632.webp",
+      "PackagePath": "staticwebassets/images/1cc75e6a-d7ba-404c-88aa-43922469d632.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1d18500f-1ae4-4635-9f87-680589a2b294.webp",
+      "PackagePath": "staticwebassets/images/1d18500f-1ae4-4635-9f87-680589a2b294.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1e02f389-0446-4c4f-b4cc-de5f704ea5c3.webp",
+      "PackagePath": "staticwebassets/images/1e02f389-0446-4c4f-b4cc-de5f704ea5c3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1ebe933c-31ba-4185-b15c-5dee5ace3d5f.jpg",
+      "PackagePath": "staticwebassets/images/1ebe933c-31ba-4185-b15c-5dee5ace3d5f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1ecab461-539f-44d7-acb1-0e710d61e332.webp",
+      "PackagePath": "staticwebassets/images/1ecab461-539f-44d7-acb1-0e710d61e332.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/1fda8a74-9449-4c91-b87b-93be9bb41f8c.jpg",
+      "PackagePath": "staticwebassets/images/1fda8a74-9449-4c91-b87b-93be9bb41f8c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2160f674-6a9a-4bc4-a4d0-6e336b7720a7.jpg",
+      "PackagePath": "staticwebassets/images/2160f674-6a9a-4bc4-a4d0-6e336b7720a7.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/21642964-32f7-4983-a96e-84e1d634bea4.webp",
+      "PackagePath": "staticwebassets/images/21642964-32f7-4983-a96e-84e1d634bea4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/217dd386-a784-4045-8eed-9c6ce07a12b4.webp",
+      "PackagePath": "staticwebassets/images/217dd386-a784-4045-8eed-9c6ce07a12b4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2246a658-1e87-42f6-8e27-dd315b4e9c7b.webp",
+      "PackagePath": "staticwebassets/images/2246a658-1e87-42f6-8e27-dd315b4e9c7b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2269b3ac-155e-42d6-b2c7-998748d17b17.webp",
+      "PackagePath": "staticwebassets/images/2269b3ac-155e-42d6-b2c7-998748d17b17.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/233d6cd1-daf4-453d-b84e-6ba906bb496b.webp",
+      "PackagePath": "staticwebassets/images/233d6cd1-daf4-453d-b84e-6ba906bb496b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/23a6b74f-e916-4a4d-8624-0a07391b6484.jpg",
+      "PackagePath": "staticwebassets/images/23a6b74f-e916-4a4d-8624-0a07391b6484.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/245eeecd-0df9-420e-ad48-49b54c3d6287.webp",
+      "PackagePath": "staticwebassets/images/245eeecd-0df9-420e-ad48-49b54c3d6287.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/24693710-fe1f-4713-9383-53b48b6a8f7a.jpg",
+      "PackagePath": "staticwebassets/images/24693710-fe1f-4713-9383-53b48b6a8f7a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/251f03f2-dfc1-4881-8d7c-a5ecd3f35d8b.webp",
+      "PackagePath": "staticwebassets/images/251f03f2-dfc1-4881-8d7c-a5ecd3f35d8b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/252eaab8-9e08-4f5b-91ce-4338b7cd659d.webp",
+      "PackagePath": "staticwebassets/images/252eaab8-9e08-4f5b-91ce-4338b7cd659d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/256ed296-ea0b-4272-b6f6-43148c00de34.jpg",
+      "PackagePath": "staticwebassets/images/256ed296-ea0b-4272-b6f6-43148c00de34.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/25a9b6d8-ab4c-45e0-92d8-f9b669f7f133.webp",
+      "PackagePath": "staticwebassets/images/25a9b6d8-ab4c-45e0-92d8-f9b669f7f133.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/25be2db4-ee05-4cf5-ab44-3af56e1daad9.jpg",
+      "PackagePath": "staticwebassets/images/25be2db4-ee05-4cf5-ab44-3af56e1daad9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/25d472ce-c3a7-42fb-95de-a4c1664bd66a.jpg",
+      "PackagePath": "staticwebassets/images/25d472ce-c3a7-42fb-95de-a4c1664bd66a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/25e6877d-5635-46c7-8507-a1652c35bf07.webp",
+      "PackagePath": "staticwebassets/images/25e6877d-5635-46c7-8507-a1652c35bf07.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/264f1e27-1cd6-49a6-824e-0137211b4e60.jpg",
+      "PackagePath": "staticwebassets/images/264f1e27-1cd6-49a6-824e-0137211b4e60.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/26dea184-a8a1-4b61-9245-e0c2ef30a718.jpg",
+      "PackagePath": "staticwebassets/images/26dea184-a8a1-4b61-9245-e0c2ef30a718.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/271baae3-4767-45ef-873b-8d578a494dbc.webp",
+      "PackagePath": "staticwebassets/images/271baae3-4767-45ef-873b-8d578a494dbc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/273d6984-26e7-45e5-a3c6-89c97cc091e5.jpg",
+      "PackagePath": "staticwebassets/images/273d6984-26e7-45e5-a3c6-89c97cc091e5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/27b4a521-e88d-4cea-8c31-5e6f58bd47eb.jpg",
+      "PackagePath": "staticwebassets/images/27b4a521-e88d-4cea-8c31-5e6f58bd47eb.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2941d560-0b1b-4fa4-ad6a-aad4bab68047.webp",
+      "PackagePath": "staticwebassets/images/2941d560-0b1b-4fa4-ad6a-aad4bab68047.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2950fbef-6be3-42f8-ad16-2d6d5962c9be.webp",
+      "PackagePath": "staticwebassets/images/2950fbef-6be3-42f8-ad16-2d6d5962c9be.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2960fbc6-dd3b-4d4c-8b8c-efaffb86699d.jpg",
+      "PackagePath": "staticwebassets/images/2960fbc6-dd3b-4d4c-8b8c-efaffb86699d.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2a0ce43f-0c5a-418d-83da-12d5f2df4af3.webp",
+      "PackagePath": "staticwebassets/images/2a0ce43f-0c5a-418d-83da-12d5f2df4af3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2a5c4a84-902b-4e68-a4a5-474723eb1bc0.webp",
+      "PackagePath": "staticwebassets/images/2a5c4a84-902b-4e68-a4a5-474723eb1bc0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2a5d0d22-9140-4baf-8176-8ea170b642eb.webp",
+      "PackagePath": "staticwebassets/images/2a5d0d22-9140-4baf-8176-8ea170b642eb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2a71a59f-2195-4bed-a368-cbd06666a111.webp",
+      "PackagePath": "staticwebassets/images/2a71a59f-2195-4bed-a368-cbd06666a111.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2a7d5eb7-9c92-4e7e-b2d6-0dfed5dd62bc.webp",
+      "PackagePath": "staticwebassets/images/2a7d5eb7-9c92-4e7e-b2d6-0dfed5dd62bc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2afa5591-89f6-4039-a25d-a74db4adda11.webp",
+      "PackagePath": "staticwebassets/images/2afa5591-89f6-4039-a25d-a74db4adda11.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2c7ae664-53a5-40f2-b437-60c4b6edc6bf.jpg",
+      "PackagePath": "staticwebassets/images/2c7ae664-53a5-40f2-b437-60c4b6edc6bf.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2ca8cb0b-45bf-493d-9cf1-78f7a1a2768d.jpg",
+      "PackagePath": "staticwebassets/images/2ca8cb0b-45bf-493d-9cf1-78f7a1a2768d.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2cad3221-f1c8-465c-b230-1e2bb078f3a5.jpg",
+      "PackagePath": "staticwebassets/images/2cad3221-f1c8-465c-b230-1e2bb078f3a5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2d210b2d-0fd5-48b1-9dcb-20ae1f19550b.jpg",
+      "PackagePath": "staticwebassets/images/2d210b2d-0fd5-48b1-9dcb-20ae1f19550b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2d5d5aa3-e749-4b47-a367-0218334a0510.jpg",
+      "PackagePath": "staticwebassets/images/2d5d5aa3-e749-4b47-a367-0218334a0510.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2e4df925-80f1-43a2-af6b-2e0867522987.jpg",
+      "PackagePath": "staticwebassets/images/2e4df925-80f1-43a2-af6b-2e0867522987.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2e5b224c-64da-424b-99ab-0faa1908a3ff.webp",
+      "PackagePath": "staticwebassets/images/2e5b224c-64da-424b-99ab-0faa1908a3ff.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2eacc89e-c166-48d7-91cf-f00c300444a9.webp",
+      "PackagePath": "staticwebassets/images/2eacc89e-c166-48d7-91cf-f00c300444a9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2f043a32-9ff9-435c-aea4-739db6a44fdb.webp",
+      "PackagePath": "staticwebassets/images/2f043a32-9ff9-435c-aea4-739db6a44fdb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2f3021e5-8ef1-472d-b882-68c923d7811f.webp",
+      "PackagePath": "staticwebassets/images/2f3021e5-8ef1-472d-b882-68c923d7811f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2fae32f6-4c25-479d-9f8c-4eaef272b63b.webp",
+      "PackagePath": "staticwebassets/images/2fae32f6-4c25-479d-9f8c-4eaef272b63b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/2fcadb4d-1fb6-4784-8007-80097a50436d.webp",
+      "PackagePath": "staticwebassets/images/2fcadb4d-1fb6-4784-8007-80097a50436d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/30352819-efb0-45e3-8ef7-509bcd3b6159.jpg",
+      "PackagePath": "staticwebassets/images/30352819-efb0-45e3-8ef7-509bcd3b6159.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/307eaf6e-8663-4e02-b204-6d40f80f1875.jpg",
+      "PackagePath": "staticwebassets/images/307eaf6e-8663-4e02-b204-6d40f80f1875.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/308c049d-d4ff-472f-a14c-564bc8859245.webp",
+      "PackagePath": "staticwebassets/images/308c049d-d4ff-472f-a14c-564bc8859245.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/30af36b3-5e69-43a6-87a0-6a27a5249575.jpg",
+      "PackagePath": "staticwebassets/images/30af36b3-5e69-43a6-87a0-6a27a5249575.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/316e896c-400d-4459-82ee-46dbf78cf32a.webp",
+      "PackagePath": "staticwebassets/images/316e896c-400d-4459-82ee-46dbf78cf32a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/320ee585-c9a3-4f4d-b53e-f92fa7165b06.jpg",
+      "PackagePath": "staticwebassets/images/320ee585-c9a3-4f4d-b53e-f92fa7165b06.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3258a77a-80a1-440a-8f50-0980f921171e.webp",
+      "PackagePath": "staticwebassets/images/3258a77a-80a1-440a-8f50-0980f921171e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/32da08ac-e703-47bd-aad8-6a37e80370b5.webp",
+      "PackagePath": "staticwebassets/images/32da08ac-e703-47bd-aad8-6a37e80370b5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/330fb8db-fec8-46a6-a1a6-11a6e98c99f1.webp",
+      "PackagePath": "staticwebassets/images/330fb8db-fec8-46a6-a1a6-11a6e98c99f1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3422f23b-0b05-4fe2-b2bc-a0f5d63440f0.webp",
+      "PackagePath": "staticwebassets/images/3422f23b-0b05-4fe2-b2bc-a0f5d63440f0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/34397f1a-4550-49f5-95b5-9379fbb5260f.webp",
+      "PackagePath": "staticwebassets/images/34397f1a-4550-49f5-95b5-9379fbb5260f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/344aadb1-39dd-4bba-bb9d-58c3669bc2e4.webp",
+      "PackagePath": "staticwebassets/images/344aadb1-39dd-4bba-bb9d-58c3669bc2e4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3518c4e9-c2f3-49f1-9b22-ae390bfb0cbd.webp",
+      "PackagePath": "staticwebassets/images/3518c4e9-c2f3-49f1-9b22-ae390bfb0cbd.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/353acf23-ff44-4e5c-be2e-028190e33406.jpg",
+      "PackagePath": "staticwebassets/images/353acf23-ff44-4e5c-be2e-028190e33406.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/35a549d2-1a0c-4081-b59c-27524f26c9bc.webp",
+      "PackagePath": "staticwebassets/images/35a549d2-1a0c-4081-b59c-27524f26c9bc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/37117719-e437-4b4f-8122-f86ce4c5bfa5.jpg",
+      "PackagePath": "staticwebassets/images/37117719-e437-4b4f-8122-f86ce4c5bfa5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3727fbd8-8f9b-473b-8e58-cf636c3b8192.webp",
+      "PackagePath": "staticwebassets/images/3727fbd8-8f9b-473b-8e58-cf636c3b8192.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/38068737-2342-4b7d-81f1-9c42310cd0d4.jpg",
+      "PackagePath": "staticwebassets/images/38068737-2342-4b7d-81f1-9c42310cd0d4.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/38e561b3-b5e5-462e-8a84-c88968be5c63.webp",
+      "PackagePath": "staticwebassets/images/38e561b3-b5e5-462e-8a84-c88968be5c63.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/39a91a13-afb6-4ef9-b82d-a7eafa2e812e.webp",
+      "PackagePath": "staticwebassets/images/39a91a13-afb6-4ef9-b82d-a7eafa2e812e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3a44c430-1a2a-4e6f-8dc7-dd215cd6b719.webp",
+      "PackagePath": "staticwebassets/images/3a44c430-1a2a-4e6f-8dc7-dd215cd6b719.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3a8ba1b9-4faf-4801-be48-4535936d91b6.webp",
+      "PackagePath": "staticwebassets/images/3a8ba1b9-4faf-4801-be48-4535936d91b6.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3b1f1889-4d38-45fc-8807-b223d664ca51.webp",
+      "PackagePath": "staticwebassets/images/3b1f1889-4d38-45fc-8807-b223d664ca51.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3bd29042-ec3e-4cc0-b913-a8365c188244.webp",
+      "PackagePath": "staticwebassets/images/3bd29042-ec3e-4cc0-b913-a8365c188244.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3c088525-2069-406c-aae6-994ccd662a18.jpg",
+      "PackagePath": "staticwebassets/images/3c088525-2069-406c-aae6-994ccd662a18.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3d29f2b6-cdc0-4999-bb4d-472eae7df777.webp",
+      "PackagePath": "staticwebassets/images/3d29f2b6-cdc0-4999-bb4d-472eae7df777.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3d42b123-cdf8-4dab-b217-3ffacfee6983.webp",
+      "PackagePath": "staticwebassets/images/3d42b123-cdf8-4dab-b217-3ffacfee6983.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3d8bb0ac-7cc9-4339-967d-237f178dd162.jpg",
+      "PackagePath": "staticwebassets/images/3d8bb0ac-7cc9-4339-967d-237f178dd162.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/3e5ee413-75e4-4485-9113-a021afac7a48.webp",
+      "PackagePath": "staticwebassets/images/3e5ee413-75e4-4485-9113-a021afac7a48.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/40317211-b055-4eac-bcd2-51da1433bca3.webp",
+      "PackagePath": "staticwebassets/images/40317211-b055-4eac-bcd2-51da1433bca3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/410053df-5989-4857-a895-403549b1e63a.webp",
+      "PackagePath": "staticwebassets/images/410053df-5989-4857-a895-403549b1e63a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/426e46fb-6034-44ab-b506-e35af78b1a79.jpg",
+      "PackagePath": "staticwebassets/images/426e46fb-6034-44ab-b506-e35af78b1a79.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/42a52f96-d5c4-403b-b3d1-bdad94342eb2.webp",
+      "PackagePath": "staticwebassets/images/42a52f96-d5c4-403b-b3d1-bdad94342eb2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/42c82ce0-cb0b-4373-8368-c19d48d65744.jpg",
+      "PackagePath": "staticwebassets/images/42c82ce0-cb0b-4373-8368-c19d48d65744.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/42d08090-b209-41ed-b08e-2ba021ed4bdb.webp",
+      "PackagePath": "staticwebassets/images/42d08090-b209-41ed-b08e-2ba021ed4bdb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/42f8f699-3f62-4477-99c9-08c39fc7054b.webp",
+      "PackagePath": "staticwebassets/images/42f8f699-3f62-4477-99c9-08c39fc7054b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/43b771e6-390a-4e07-bce7-691713f8bae9.webp",
+      "PackagePath": "staticwebassets/images/43b771e6-390a-4e07-bce7-691713f8bae9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/443a425d-fcd6-4c42-a9dc-b84c7f16feb8.webp",
+      "PackagePath": "staticwebassets/images/443a425d-fcd6-4c42-a9dc-b84c7f16feb8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/444895d6-1c48-4afe-a74b-ba92b7095f95.jpg",
+      "PackagePath": "staticwebassets/images/444895d6-1c48-4afe-a74b-ba92b7095f95.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/44c19023-c652-4ace-be08-ceb8cb1a32e1.webp",
+      "PackagePath": "staticwebassets/images/44c19023-c652-4ace-be08-ceb8cb1a32e1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/44d49e95-7329-46e8-b27d-1191dddef44e.jpg",
+      "PackagePath": "staticwebassets/images/44d49e95-7329-46e8-b27d-1191dddef44e.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4589eaaa-d4f6-4905-8f88-f712e9eb62f3.webp",
+      "PackagePath": "staticwebassets/images/4589eaaa-d4f6-4905-8f88-f712e9eb62f3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/46004aaf-cac4-4e0c-b032-0ec1f236ab8a.webp",
+      "PackagePath": "staticwebassets/images/46004aaf-cac4-4e0c-b032-0ec1f236ab8a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/46303cb6-9fcb-4d95-9ee3-0c4e0be47bf2.webp",
+      "PackagePath": "staticwebassets/images/46303cb6-9fcb-4d95-9ee3-0c4e0be47bf2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/464011d9-eedd-4973-9e93-dc96a7cee440.jpg",
+      "PackagePath": "staticwebassets/images/464011d9-eedd-4973-9e93-dc96a7cee440.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4655c230-9f37-4928-888e-55e859229574.webp",
+      "PackagePath": "staticwebassets/images/4655c230-9f37-4928-888e-55e859229574.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/469beceb-170e-4baf-82e9-7d73f2def7f2.webp",
+      "PackagePath": "staticwebassets/images/469beceb-170e-4baf-82e9-7d73f2def7f2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/46cd4ffb-0aac-4f35-8cb1-a7f4a46bf959.webp",
+      "PackagePath": "staticwebassets/images/46cd4ffb-0aac-4f35-8cb1-a7f4a46bf959.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/46e93d93-1e04-4082-b533-e2a715dd5d21.webp",
+      "PackagePath": "staticwebassets/images/46e93d93-1e04-4082-b533-e2a715dd5d21.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/471b1ed1-9021-48d9-b64a-58f3a12d824c.jpg",
+      "PackagePath": "staticwebassets/images/471b1ed1-9021-48d9-b64a-58f3a12d824c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4897568b-07a4-4a5f-94a6-efc2630f2b86.jpg",
+      "PackagePath": "staticwebassets/images/4897568b-07a4-4a5f-94a6-efc2630f2b86.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4a408e0b-f06b-450a-9838-623476e64329.webp",
+      "PackagePath": "staticwebassets/images/4a408e0b-f06b-450a-9838-623476e64329.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4a944c33-ac4f-4b6c-944b-e5fe7431ae9e.webp",
+      "PackagePath": "staticwebassets/images/4a944c33-ac4f-4b6c-944b-e5fe7431ae9e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4b15f74b-72ad-45fa-aec4-2180227cf7e7.webp",
+      "PackagePath": "staticwebassets/images/4b15f74b-72ad-45fa-aec4-2180227cf7e7.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4b656dc7-fa55-4a65-a6e1-15af5e78d34b.webp",
+      "PackagePath": "staticwebassets/images/4b656dc7-fa55-4a65-a6e1-15af5e78d34b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4bb52274-c988-4c9c-8a1f-3c6180cfd98b.jpg",
+      "PackagePath": "staticwebassets/images/4bb52274-c988-4c9c-8a1f-3c6180cfd98b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4c0bcab9-8770-4f99-bf47-ca51845a9126.jpg",
+      "PackagePath": "staticwebassets/images/4c0bcab9-8770-4f99-bf47-ca51845a9126.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4c2fa8ac-288d-412a-995c-698dae1250bf.webp",
+      "PackagePath": "staticwebassets/images/4c2fa8ac-288d-412a-995c-698dae1250bf.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4c323a53-0ced-4218-ae4f-dd7a43955577.webp",
+      "PackagePath": "staticwebassets/images/4c323a53-0ced-4218-ae4f-dd7a43955577.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4c4ad259-d78c-420e-a15c-9a00f4225dea.jpg",
+      "PackagePath": "staticwebassets/images/4c4ad259-d78c-420e-a15c-9a00f4225dea.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4d8ea014-d6aa-4f5b-8ced-4638c20e3dde.webp",
+      "PackagePath": "staticwebassets/images/4d8ea014-d6aa-4f5b-8ced-4638c20e3dde.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4d9b223f-23c8-4786-a037-d70d48dbb5e9.webp",
+      "PackagePath": "staticwebassets/images/4d9b223f-23c8-4786-a037-d70d48dbb5e9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4de8b4e5-7010-48f0-b959-fab5077549b0.webp",
+      "PackagePath": "staticwebassets/images/4de8b4e5-7010-48f0-b959-fab5077549b0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4e748445-94f4-4216-8cdc-91e31e9ee216.webp",
+      "PackagePath": "staticwebassets/images/4e748445-94f4-4216-8cdc-91e31e9ee216.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4ed66f1c-386f-4f1c-8cef-76acda08a8f7.jpg",
+      "PackagePath": "staticwebassets/images/4ed66f1c-386f-4f1c-8cef-76acda08a8f7.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/4ef7a556-83a9-4a50-a50d-d2f5a4483b01.webp",
+      "PackagePath": "staticwebassets/images/4ef7a556-83a9-4a50-a50d-d2f5a4483b01.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/508aa6a2-677e-4eec-b1c7-bcdc051b802c.webp",
+      "PackagePath": "staticwebassets/images/508aa6a2-677e-4eec-b1c7-bcdc051b802c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/515d9877-dc18-4801-a15f-1f4a2f568b06.webp",
+      "PackagePath": "staticwebassets/images/515d9877-dc18-4801-a15f-1f4a2f568b06.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5181e474-cb03-40bf-aae9-6c15a99b2164.webp",
+      "PackagePath": "staticwebassets/images/5181e474-cb03-40bf-aae9-6c15a99b2164.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/51a97911-e653-4945-8f26-dc7ec3cc4b89.webp",
+      "PackagePath": "staticwebassets/images/51a97911-e653-4945-8f26-dc7ec3cc4b89.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/526950a8-7ff0-4b19-b708-3411c0764b7c.jpg",
+      "PackagePath": "staticwebassets/images/526950a8-7ff0-4b19-b708-3411c0764b7c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/52aa83c4-620b-4bce-bf0c-f34ded00f41f.webp",
+      "PackagePath": "staticwebassets/images/52aa83c4-620b-4bce-bf0c-f34ded00f41f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/52bfd182-23b8-4f8f-a144-f859a0363f8e.webp",
+      "PackagePath": "staticwebassets/images/52bfd182-23b8-4f8f-a144-f859a0363f8e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/537bda3b-b43d-423d-8d9d-c4182fe53e2b.webp",
+      "PackagePath": "staticwebassets/images/537bda3b-b43d-423d-8d9d-c4182fe53e2b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/540708c8-b52a-4b21-8012-6a15171081c2.jpg",
+      "PackagePath": "staticwebassets/images/540708c8-b52a-4b21-8012-6a15171081c2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/54320034-72e4-4788-a78a-638d02fa96bd.jpg",
+      "PackagePath": "staticwebassets/images/54320034-72e4-4788-a78a-638d02fa96bd.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5450eb7d-65d3-485c-9ecd-c758ffd68942.webp",
+      "PackagePath": "staticwebassets/images/5450eb7d-65d3-485c-9ecd-c758ffd68942.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/54eb87fd-86c9-4071-b1ce-769f1fe5b693.webp",
+      "PackagePath": "staticwebassets/images/54eb87fd-86c9-4071-b1ce-769f1fe5b693.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5508ee07-c815-48de-8495-62b86aa9600c.webp",
+      "PackagePath": "staticwebassets/images/5508ee07-c815-48de-8495-62b86aa9600c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/55a36e0b-504c-4b71-86c1-a2efd4d59b97.webp",
+      "PackagePath": "staticwebassets/images/55a36e0b-504c-4b71-86c1-a2efd4d59b97.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/55ce9cb8-1af7-474d-9bdd-84caf5c85199.webp",
+      "PackagePath": "staticwebassets/images/55ce9cb8-1af7-474d-9bdd-84caf5c85199.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/55eca030-fd0c-4259-aea6-39d437820f38.jpg",
+      "PackagePath": "staticwebassets/images/55eca030-fd0c-4259-aea6-39d437820f38.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/561968d7-dd39-4cdc-8a42-052dd58ab226.jpg",
+      "PackagePath": "staticwebassets/images/561968d7-dd39-4cdc-8a42-052dd58ab226.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/56485aa8-6ac2-42c4-896b-96578e654b6f.jpg",
+      "PackagePath": "staticwebassets/images/56485aa8-6ac2-42c4-896b-96578e654b6f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/56affbfa-1300-44a1-a02e-ff427bb52254.webp",
+      "PackagePath": "staticwebassets/images/56affbfa-1300-44a1-a02e-ff427bb52254.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/571fc825-1012-432f-a13d-17c2cc14fc32.jpg",
+      "PackagePath": "staticwebassets/images/571fc825-1012-432f-a13d-17c2cc14fc32.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5729d949-889b-4840-b49a-cd9a7f5540eb.webp",
+      "PackagePath": "staticwebassets/images/5729d949-889b-4840-b49a-cd9a7f5540eb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/572f96bc-38b8-4cb0-98f9-05508ae39889.webp",
+      "PackagePath": "staticwebassets/images/572f96bc-38b8-4cb0-98f9-05508ae39889.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/574ba52a-0722-4341-b646-9e74b16e4fb6.jpg",
+      "PackagePath": "staticwebassets/images/574ba52a-0722-4341-b646-9e74b16e4fb6.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/57548325-df6d-4196-9ffd-a48d04948906.jpg",
+      "PackagePath": "staticwebassets/images/57548325-df6d-4196-9ffd-a48d04948906.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/57a372d9-1724-4d4a-93cf-73f2be6b49c4.webp",
+      "PackagePath": "staticwebassets/images/57a372d9-1724-4d4a-93cf-73f2be6b49c4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/587d2f53-e661-41b2-93a2-a906c999d09d.jpg",
+      "PackagePath": "staticwebassets/images/587d2f53-e661-41b2-93a2-a906c999d09d.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/58bd6a5a-4654-4f7d-954a-3fca0bb1ec49.webp",
+      "PackagePath": "staticwebassets/images/58bd6a5a-4654-4f7d-954a-3fca0bb1ec49.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/58c4b66f-5f74-4aa6-b105-9e2c43ee873d.webp",
+      "PackagePath": "staticwebassets/images/58c4b66f-5f74-4aa6-b105-9e2c43ee873d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/58cf7f3b-0e2a-4b77-85f9-cebf196cef07.webp",
+      "PackagePath": "staticwebassets/images/58cf7f3b-0e2a-4b77-85f9-cebf196cef07.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5909c4de-cb63-4ae7-a773-0f4cf7ff4326.webp",
+      "PackagePath": "staticwebassets/images/5909c4de-cb63-4ae7-a773-0f4cf7ff4326.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/592fc613-59e5-4c1c-8ded-72c2a157877f.webp",
+      "PackagePath": "staticwebassets/images/592fc613-59e5-4c1c-8ded-72c2a157877f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/59e1716a-05f5-4bf0-987e-41457fc2de9e.webp",
+      "PackagePath": "staticwebassets/images/59e1716a-05f5-4bf0-987e-41457fc2de9e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5a3b3bf9-512e-49b8-aaa0-bc6be68faa36.jpg",
+      "PackagePath": "staticwebassets/images/5a3b3bf9-512e-49b8-aaa0-bc6be68faa36.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5a8b9051-7fe3-4655-9fb9-342478bdd7b9.webp",
+      "PackagePath": "staticwebassets/images/5a8b9051-7fe3-4655-9fb9-342478bdd7b9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5b25f158-42ea-4fd6-9323-6fe7c71609a3.webp",
+      "PackagePath": "staticwebassets/images/5b25f158-42ea-4fd6-9323-6fe7c71609a3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5b45c8cb-9617-4a89-bb59-f7adf31f23c9.jpg",
+      "PackagePath": "staticwebassets/images/5b45c8cb-9617-4a89-bb59-f7adf31f23c9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5b9ffd8b-c24f-4a83-8b1e-dc5119cd895d.webp",
+      "PackagePath": "staticwebassets/images/5b9ffd8b-c24f-4a83-8b1e-dc5119cd895d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5bac3e1d-bbab-4d16-b064-2e072048af7c.webp",
+      "PackagePath": "staticwebassets/images/5bac3e1d-bbab-4d16-b064-2e072048af7c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5c539535-6824-457d-b662-2564ed389726.jpg",
+      "PackagePath": "staticwebassets/images/5c539535-6824-457d-b662-2564ed389726.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5cd4fd41-4203-40d5-a7c5-8da4885b7b11.jpg",
+      "PackagePath": "staticwebassets/images/5cd4fd41-4203-40d5-a7c5-8da4885b7b11.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5d07ec48-6b78-4890-a3bc-409de6f041d0.webp",
+      "PackagePath": "staticwebassets/images/5d07ec48-6b78-4890-a3bc-409de6f041d0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5d0aea99-4236-4c49-97b3-8d8bc997a21d.webp",
+      "PackagePath": "staticwebassets/images/5d0aea99-4236-4c49-97b3-8d8bc997a21d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5db79539-2d03-447a-94d8-5e45849216bf.webp",
+      "PackagePath": "staticwebassets/images/5db79539-2d03-447a-94d8-5e45849216bf.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5de29c94-291a-414d-9826-f21842e79aa8.webp",
+      "PackagePath": "staticwebassets/images/5de29c94-291a-414d-9826-f21842e79aa8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5e697057-c543-4c78-ba09-6cc23ab27d0a.webp",
+      "PackagePath": "staticwebassets/images/5e697057-c543-4c78-ba09-6cc23ab27d0a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5ea179a1-ff09-461a-b5e6-1d8d410a30e4.webp",
+      "PackagePath": "staticwebassets/images/5ea179a1-ff09-461a-b5e6-1d8d410a30e4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5eca1b30-6551-4b94-a8d8-889fc05d7f76.webp",
+      "PackagePath": "staticwebassets/images/5eca1b30-6551-4b94-a8d8-889fc05d7f76.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5ed8e4ca-738c-4b12-b8ac-a0c7094fbb46.jpg",
+      "PackagePath": "staticwebassets/images/5ed8e4ca-738c-4b12-b8ac-a0c7094fbb46.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5f4c335e-141d-4a29-b8a8-f443c7f9204a.webp",
+      "PackagePath": "staticwebassets/images/5f4c335e-141d-4a29-b8a8-f443c7f9204a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/5f90cdb8-6872-4765-bee2-9e761f7a9c60.jpg",
+      "PackagePath": "staticwebassets/images/5f90cdb8-6872-4765-bee2-9e761f7a9c60.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/61035da0-05c1-4efa-9f63-d28fd90c138b.webp",
+      "PackagePath": "staticwebassets/images/61035da0-05c1-4efa-9f63-d28fd90c138b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/618afd91-aec4-416d-904f-ecd6cfb7c465.webp",
+      "PackagePath": "staticwebassets/images/618afd91-aec4-416d-904f-ecd6cfb7c465.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/61977015-d823-4cc3-ab7a-e6234fb98d24.jpg",
+      "PackagePath": "staticwebassets/images/61977015-d823-4cc3-ab7a-e6234fb98d24.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/61fc8e7e-3d1f-4cac-ac71-f01e80db1a1a.webp",
+      "PackagePath": "staticwebassets/images/61fc8e7e-3d1f-4cac-ac71-f01e80db1a1a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/629a64ba-f5ed-43df-a622-add5126bc85a.jpg",
+      "PackagePath": "staticwebassets/images/629a64ba-f5ed-43df-a622-add5126bc85a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6367e84c-9cb9-4733-a261-954a9afce66e.webp",
+      "PackagePath": "staticwebassets/images/6367e84c-9cb9-4733-a261-954a9afce66e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/64359d04-9fd4-4048-b210-bf6a6e9b418e.jpg",
+      "PackagePath": "staticwebassets/images/64359d04-9fd4-4048-b210-bf6a6e9b418e.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/643a1972-c454-49a7-bc32-8d453bc31e45.webp",
+      "PackagePath": "staticwebassets/images/643a1972-c454-49a7-bc32-8d453bc31e45.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/645aa646-0965-4841-9648-3fff71bbb550.jpg",
+      "PackagePath": "staticwebassets/images/645aa646-0965-4841-9648-3fff71bbb550.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/64b8e72b-6f8c-4e1e-9d38-a4dd1f7a20ea.webp",
+      "PackagePath": "staticwebassets/images/64b8e72b-6f8c-4e1e-9d38-a4dd1f7a20ea.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6582d9dd-463d-4b05-a0e1-15cd4ca7b310.webp",
+      "PackagePath": "staticwebassets/images/6582d9dd-463d-4b05-a0e1-15cd4ca7b310.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/65fb2ce4-18a5-468b-bf7f-2251bc42827c.webp",
+      "PackagePath": "staticwebassets/images/65fb2ce4-18a5-468b-bf7f-2251bc42827c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/66029d5a-521c-4b62-b986-174ab720fa39.jpg",
+      "PackagePath": "staticwebassets/images/66029d5a-521c-4b62-b986-174ab720fa39.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/663837f3-8d65-4be6-ba9a-26dcffb7dd40.webp",
+      "PackagePath": "staticwebassets/images/663837f3-8d65-4be6-ba9a-26dcffb7dd40.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/66749160-b279-406d-a9fe-b76893c09e64.webp",
+      "PackagePath": "staticwebassets/images/66749160-b279-406d-a9fe-b76893c09e64.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/66f9ef89-0203-46fa-8d0f-f139861b2caf.webp",
+      "PackagePath": "staticwebassets/images/66f9ef89-0203-46fa-8d0f-f139861b2caf.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/674534e8-8db6-49c6-8561-ab24be8c4b24.webp",
+      "PackagePath": "staticwebassets/images/674534e8-8db6-49c6-8561-ab24be8c4b24.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/685cefff-b7f2-4346-b0b0-f322c79b2403.webp",
+      "PackagePath": "staticwebassets/images/685cefff-b7f2-4346-b0b0-f322c79b2403.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/690dce62-c3d4-497d-b0d5-9b7b14cceda1.jpg",
+      "PackagePath": "staticwebassets/images/690dce62-c3d4-497d-b0d5-9b7b14cceda1.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/69557679-023b-4cc1-bd4b-f41fc2fea0f4.webp",
+      "PackagePath": "staticwebassets/images/69557679-023b-4cc1-bd4b-f41fc2fea0f4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6a049f40-0a45-4484-8a71-dd24617d3d6f.webp",
+      "PackagePath": "staticwebassets/images/6a049f40-0a45-4484-8a71-dd24617d3d6f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6a2586b0-9fdf-4f75-a585-b2a30826926b.webp",
+      "PackagePath": "staticwebassets/images/6a2586b0-9fdf-4f75-a585-b2a30826926b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6a6ff91b-eb5a-4668-9930-456f772e7f77.webp",
+      "PackagePath": "staticwebassets/images/6a6ff91b-eb5a-4668-9930-456f772e7f77.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6b0e4003-e8e4-4a80-9d6c-52fb9f3e3cb1.webp",
+      "PackagePath": "staticwebassets/images/6b0e4003-e8e4-4a80-9d6c-52fb9f3e3cb1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6b35e8b8-ebc6-4e33-aeb4-d2d796e740ac.webp",
+      "PackagePath": "staticwebassets/images/6b35e8b8-ebc6-4e33-aeb4-d2d796e740ac.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6b99407c-f922-4542-af3d-6a42e52c7193.webp",
+      "PackagePath": "staticwebassets/images/6b99407c-f922-4542-af3d-6a42e52c7193.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6bc19fa9-08c8-462a-be6f-cc075f72616a.webp",
+      "PackagePath": "staticwebassets/images/6bc19fa9-08c8-462a-be6f-cc075f72616a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6c59e39e-ae3c-4fc2-9ba0-e052dcde1294.webp",
+      "PackagePath": "staticwebassets/images/6c59e39e-ae3c-4fc2-9ba0-e052dcde1294.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6c7fe28d-ad0e-493c-b2d7-b8eff2e802ec.webp",
+      "PackagePath": "staticwebassets/images/6c7fe28d-ad0e-493c-b2d7-b8eff2e802ec.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6d59abb9-8eca-4576-8707-e0f1dca03e16.webp",
+      "PackagePath": "staticwebassets/images/6d59abb9-8eca-4576-8707-e0f1dca03e16.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6d6052f3-4fa5-4389-8676-ccd0661c99db.webp",
+      "PackagePath": "staticwebassets/images/6d6052f3-4fa5-4389-8676-ccd0661c99db.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6d7075a7-f722-4698-9c33-cb1f6abf2c2f.jpg",
+      "PackagePath": "staticwebassets/images/6d7075a7-f722-4698-9c33-cb1f6abf2c2f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6daa4269-276c-46b7-841f-84a1f7b9d0f1.webp",
+      "PackagePath": "staticwebassets/images/6daa4269-276c-46b7-841f-84a1f7b9d0f1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6e083721-974e-404c-8ade-d6444d7e3a1f.jpg",
+      "PackagePath": "staticwebassets/images/6e083721-974e-404c-8ade-d6444d7e3a1f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6e414a53-4774-4d0e-9982-7d1c16814bde.webp",
+      "PackagePath": "staticwebassets/images/6e414a53-4774-4d0e-9982-7d1c16814bde.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6e4a0ef6-c114-4b70-ab6b-ba2d01df97b8.webp",
+      "PackagePath": "staticwebassets/images/6e4a0ef6-c114-4b70-ab6b-ba2d01df97b8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6e5f0078-36bb-4c1f-951c-a1ff85edcc54.webp",
+      "PackagePath": "staticwebassets/images/6e5f0078-36bb-4c1f-951c-a1ff85edcc54.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6ec13eb1-83f6-4ae5-939a-f55b82a5ee58.jpg",
+      "PackagePath": "staticwebassets/images/6ec13eb1-83f6-4ae5-939a-f55b82a5ee58.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6f6488c3-1b74-464d-b79a-3b024ff8939a.jpg",
+      "PackagePath": "staticwebassets/images/6f6488c3-1b74-464d-b79a-3b024ff8939a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6f90196e-8733-435a-8be9-ad119510491b.webp",
+      "PackagePath": "staticwebassets/images/6f90196e-8733-435a-8be9-ad119510491b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/6f9c73c5-de5b-4bf6-888d-07dc7df57ca8.jpg",
+      "PackagePath": "staticwebassets/images/6f9c73c5-de5b-4bf6-888d-07dc7df57ca8.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/70d4399e-4b74-4520-aada-e9bd195a8846.webp",
+      "PackagePath": "staticwebassets/images/70d4399e-4b74-4520-aada-e9bd195a8846.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7100c629-f68c-4356-8477-95f83a9e6b09.webp",
+      "PackagePath": "staticwebassets/images/7100c629-f68c-4356-8477-95f83a9e6b09.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/718aed56-5f83-4f48-be23-689d21bce1d1.jpg",
+      "PackagePath": "staticwebassets/images/718aed56-5f83-4f48-be23-689d21bce1d1.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/71ab026b-ae4e-4bb8-88e0-359a88ec7438.webp",
+      "PackagePath": "staticwebassets/images/71ab026b-ae4e-4bb8-88e0-359a88ec7438.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/722e145c-a800-4e0a-a285-d93a44e38714.webp",
+      "PackagePath": "staticwebassets/images/722e145c-a800-4e0a-a285-d93a44e38714.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/725c1493-81fb-442e-9d61-3c5e24bf1f4b.webp",
+      "PackagePath": "staticwebassets/images/725c1493-81fb-442e-9d61-3c5e24bf1f4b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/72d0981c-b689-476f-8091-9b977e5cdf91.webp",
+      "PackagePath": "staticwebassets/images/72d0981c-b689-476f-8091-9b977e5cdf91.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/73532284-5457-451b-a74a-34d91ac200bd.webp",
+      "PackagePath": "staticwebassets/images/73532284-5457-451b-a74a-34d91ac200bd.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/74936aeb-57aa-4f19-9f73-f978a13a765a.webp",
+      "PackagePath": "staticwebassets/images/74936aeb-57aa-4f19-9f73-f978a13a765a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/74ea78d8-6076-46a3-b69b-f60ee341e8ec.jpg",
+      "PackagePath": "staticwebassets/images/74ea78d8-6076-46a3-b69b-f60ee341e8ec.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7572b488-c436-4201-b9ab-e5133c24e782.webp",
+      "PackagePath": "staticwebassets/images/7572b488-c436-4201-b9ab-e5133c24e782.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/75b8bcd1-4cfb-49f9-8bf0-667dc26010ac.jpg",
+      "PackagePath": "staticwebassets/images/75b8bcd1-4cfb-49f9-8bf0-667dc26010ac.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/75be54a8-c1eb-4fba-a0ab-dc3aa536df60.webp",
+      "PackagePath": "staticwebassets/images/75be54a8-c1eb-4fba-a0ab-dc3aa536df60.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/75ea4d4c-c680-49d8-b3d7-19527b63c85c.webp",
+      "PackagePath": "staticwebassets/images/75ea4d4c-c680-49d8-b3d7-19527b63c85c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/75f09685-5c06-4715-8d3b-7b4d627bad28.webp",
+      "PackagePath": "staticwebassets/images/75f09685-5c06-4715-8d3b-7b4d627bad28.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/76e5e6da-8a13-457c-a4d2-3a96ffd25b78.webp",
+      "PackagePath": "staticwebassets/images/76e5e6da-8a13-457c-a4d2-3a96ffd25b78.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/78091b3a-2f93-46b1-8747-6d71f557cf1c.jpg",
+      "PackagePath": "staticwebassets/images/78091b3a-2f93-46b1-8747-6d71f557cf1c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7a467e8a-fb1b-46ca-82f5-2e4b99c8db9d.webp",
+      "PackagePath": "staticwebassets/images/7a467e8a-fb1b-46ca-82f5-2e4b99c8db9d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7af20b1b-525a-4413-a614-20c9b10778cd.webp",
+      "PackagePath": "staticwebassets/images/7af20b1b-525a-4413-a614-20c9b10778cd.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7b498331-261c-4d71-a44b-c0fedfef3b09.webp",
+      "PackagePath": "staticwebassets/images/7b498331-261c-4d71-a44b-c0fedfef3b09.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7b5307fc-35b0-4d52-a64c-a761b7b1c06a.jpg",
+      "PackagePath": "staticwebassets/images/7b5307fc-35b0-4d52-a64c-a761b7b1c06a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7b66356e-8445-4738-8abc-ff94a06f0a05.webp",
+      "PackagePath": "staticwebassets/images/7b66356e-8445-4738-8abc-ff94a06f0a05.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7c6e6385-8b76-4378-8be6-7a7e427b69fb.jpg",
+      "PackagePath": "staticwebassets/images/7c6e6385-8b76-4378-8be6-7a7e427b69fb.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7cfb4fb6-a7f6-4734-925f-6bc3ff470d6d.webp",
+      "PackagePath": "staticwebassets/images/7cfb4fb6-a7f6-4734-925f-6bc3ff470d6d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7dd436e6-3911-4746-93a2-0a06a4c1cd92.jpg",
+      "PackagePath": "staticwebassets/images/7dd436e6-3911-4746-93a2-0a06a4c1cd92.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7e6d6eba-4b3e-4b30-909a-98b44b451edf.jpg",
+      "PackagePath": "staticwebassets/images/7e6d6eba-4b3e-4b30-909a-98b44b451edf.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7ef3065c-36e0-4cde-add8-f94bfa538dc9.jpg",
+      "PackagePath": "staticwebassets/images/7ef3065c-36e0-4cde-add8-f94bfa538dc9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7f4867cc-54e8-4128-9c7b-823b86316be1.webp",
+      "PackagePath": "staticwebassets/images/7f4867cc-54e8-4128-9c7b-823b86316be1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7f5b7443-09af-4dde-876b-0869546cbbc2.jpg",
+      "PackagePath": "staticwebassets/images/7f5b7443-09af-4dde-876b-0869546cbbc2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7fe2d9e3-d82a-4a68-a2d1-ce9f5fa378b6.webp",
+      "PackagePath": "staticwebassets/images/7fe2d9e3-d82a-4a68-a2d1-ce9f5fa378b6.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/7ff139cc-8a56-4c31-a2f2-c75266398710.jpg",
+      "PackagePath": "staticwebassets/images/7ff139cc-8a56-4c31-a2f2-c75266398710.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/803262dc-cc45-4120-a976-dd2a80b62520.webp",
+      "PackagePath": "staticwebassets/images/803262dc-cc45-4120-a976-dd2a80b62520.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8045f8fa-4810-4b63-9d6c-b35df47d4169.webp",
+      "PackagePath": "staticwebassets/images/8045f8fa-4810-4b63-9d6c-b35df47d4169.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8089b7eb-f5f6-4e60-803f-b47e19acee55.webp",
+      "PackagePath": "staticwebassets/images/8089b7eb-f5f6-4e60-803f-b47e19acee55.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/809515f9-8b45-4998-ad6b-2f5cfc84ccb9.webp",
+      "PackagePath": "staticwebassets/images/809515f9-8b45-4998-ad6b-2f5cfc84ccb9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/80d0ab58-0dec-4a69-a72e-b99874f7ef5b.webp",
+      "PackagePath": "staticwebassets/images/80d0ab58-0dec-4a69-a72e-b99874f7ef5b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/81270f89-1037-4c92-adfa-65a525a87f70.jpg",
+      "PackagePath": "staticwebassets/images/81270f89-1037-4c92-adfa-65a525a87f70.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/81512370-358c-447a-b45e-e93bbaaf2e35.webp",
+      "PackagePath": "staticwebassets/images/81512370-358c-447a-b45e-e93bbaaf2e35.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/817e8fe0-4aee-40e0-a3bf-1f2c499ecac9.webp",
+      "PackagePath": "staticwebassets/images/817e8fe0-4aee-40e0-a3bf-1f2c499ecac9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8181e52e-3f73-4fe5-be9e-8f652169845e.jpg",
+      "PackagePath": "staticwebassets/images/8181e52e-3f73-4fe5-be9e-8f652169845e.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8234445a-04f9-4043-9682-718b6b410812.webp",
+      "PackagePath": "staticwebassets/images/8234445a-04f9-4043-9682-718b6b410812.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/82733a9d-3512-4496-9b6f-b3cafee6be8a.jpg",
+      "PackagePath": "staticwebassets/images/82733a9d-3512-4496-9b6f-b3cafee6be8a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/829eebf9-7a58-4dff-b51d-4f00d08f740b.webp",
+      "PackagePath": "staticwebassets/images/829eebf9-7a58-4dff-b51d-4f00d08f740b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/83d5161c-215b-4326-84d2-d5f7e8b3e2a5.webp",
+      "PackagePath": "staticwebassets/images/83d5161c-215b-4326-84d2-d5f7e8b3e2a5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/850405eb-7c32-4437-a653-628ef54703d5.webp",
+      "PackagePath": "staticwebassets/images/850405eb-7c32-4437-a653-628ef54703d5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/855b5b3e-67e8-440d-a669-2385c72b61a3.webp",
+      "PackagePath": "staticwebassets/images/855b5b3e-67e8-440d-a669-2385c72b61a3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/85ae2550-16fd-4a8c-8ae9-31eb56a3020c.webp",
+      "PackagePath": "staticwebassets/images/85ae2550-16fd-4a8c-8ae9-31eb56a3020c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/871becdc-6959-4fb4-9096-d5184c6da005.webp",
+      "PackagePath": "staticwebassets/images/871becdc-6959-4fb4-9096-d5184c6da005.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/872574b8-8d93-4c06-bfed-8a35e7ee6dcc.webp",
+      "PackagePath": "staticwebassets/images/872574b8-8d93-4c06-bfed-8a35e7ee6dcc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/874e5fc2-c3f0-44e9-8e95-daaeccbf0abf.webp",
+      "PackagePath": "staticwebassets/images/874e5fc2-c3f0-44e9-8e95-daaeccbf0abf.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/874f32ca-249e-4139-b183-fe940c5fd30b.webp",
+      "PackagePath": "staticwebassets/images/874f32ca-249e-4139-b183-fe940c5fd30b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/87c6457b-25d6-4d9c-99b8-e324fd9843d4.webp",
+      "PackagePath": "staticwebassets/images/87c6457b-25d6-4d9c-99b8-e324fd9843d4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/883665b7-7a5d-430b-a36a-3188e63bb175.webp",
+      "PackagePath": "staticwebassets/images/883665b7-7a5d-430b-a36a-3188e63bb175.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8885ff0c-2bb9-4523-b41f-2c11507ef488.webp",
+      "PackagePath": "staticwebassets/images/8885ff0c-2bb9-4523-b41f-2c11507ef488.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/88f8c109-88c5-4e35-9582-cfe0b4b16eeb.webp",
+      "PackagePath": "staticwebassets/images/88f8c109-88c5-4e35-9582-cfe0b4b16eeb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8935343f-5b41-45cd-a9d1-adfea50fa39b.webp",
+      "PackagePath": "staticwebassets/images/8935343f-5b41-45cd-a9d1-adfea50fa39b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8967f92b-f881-48b0-ad18-e8078514f539.webp",
+      "PackagePath": "staticwebassets/images/8967f92b-f881-48b0-ad18-e8078514f539.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/89a1900b-b63f-40d4-a1fc-12704705392a.jpg",
+      "PackagePath": "staticwebassets/images/89a1900b-b63f-40d4-a1fc-12704705392a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8a1c4413-af17-4a79-87ab-3a28c8cfdf08.webp",
+      "PackagePath": "staticwebassets/images/8a1c4413-af17-4a79-87ab-3a28c8cfdf08.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8aa0e15b-10d6-427c-a41d-4dab29fc54ff.jpg",
+      "PackagePath": "staticwebassets/images/8aa0e15b-10d6-427c-a41d-4dab29fc54ff.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8bdd1547-a9ff-415e-9d77-acbae9d13354.webp",
+      "PackagePath": "staticwebassets/images/8bdd1547-a9ff-415e-9d77-acbae9d13354.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8bf3065d-3892-47d4-b2f9-7759fcf95040.webp",
+      "PackagePath": "staticwebassets/images/8bf3065d-3892-47d4-b2f9-7759fcf95040.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8c16759d-8260-4f73-bf28-82ae5718cd78.webp",
+      "PackagePath": "staticwebassets/images/8c16759d-8260-4f73-bf28-82ae5718cd78.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8c34562f-22ac-4f63-9d2a-53681daf260c.webp",
+      "PackagePath": "staticwebassets/images/8c34562f-22ac-4f63-9d2a-53681daf260c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8c841fe4-7ac2-4c4d-b08d-6d4680941142.webp",
+      "PackagePath": "staticwebassets/images/8c841fe4-7ac2-4c4d-b08d-6d4680941142.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8d7f4804-e835-48c7-a597-fb9407030480.webp",
+      "PackagePath": "staticwebassets/images/8d7f4804-e835-48c7-a597-fb9407030480.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8de6b605-a9f8-474f-b846-33dc2bb040d4.webp",
+      "PackagePath": "staticwebassets/images/8de6b605-a9f8-474f-b846-33dc2bb040d4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8ef27d89-4bd8-41a3-aed5-6fd07cf1f523.webp",
+      "PackagePath": "staticwebassets/images/8ef27d89-4bd8-41a3-aed5-6fd07cf1f523.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8f3a4886-41c4-4287-a8ad-c0e466781eec.webp",
+      "PackagePath": "staticwebassets/images/8f3a4886-41c4-4287-a8ad-c0e466781eec.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8f4f86f1-ef28-4771-a181-efc4ecc69aab.jpg",
+      "PackagePath": "staticwebassets/images/8f4f86f1-ef28-4771-a181-efc4ecc69aab.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8f62c92f-a486-4d25-8b4f-8761b7124aae.webp",
+      "PackagePath": "staticwebassets/images/8f62c92f-a486-4d25-8b4f-8761b7124aae.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8f9c4865-5109-4fdd-8ef5-e207250be219.webp",
+      "PackagePath": "staticwebassets/images/8f9c4865-5109-4fdd-8ef5-e207250be219.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/8ff7f4e0-4c7e-4230-80fb-399555990247.webp",
+      "PackagePath": "staticwebassets/images/8ff7f4e0-4c7e-4230-80fb-399555990247.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/907bb90c-e812-469f-9de3-20198e09a82a.webp",
+      "PackagePath": "staticwebassets/images/907bb90c-e812-469f-9de3-20198e09a82a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/90c4214c-7ad3-4ca4-82cb-aa324d7a1912.webp",
+      "PackagePath": "staticwebassets/images/90c4214c-7ad3-4ca4-82cb-aa324d7a1912.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/90dbac56-e40b-4f10-84f6-7af309ceb3f7.webp",
+      "PackagePath": "staticwebassets/images/90dbac56-e40b-4f10-84f6-7af309ceb3f7.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/912321cb-87da-4461-a916-b92eb2acbeea.jpg",
+      "PackagePath": "staticwebassets/images/912321cb-87da-4461-a916-b92eb2acbeea.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9173eea1-c2cc-4063-88b3-0c13f0d215e0.webp",
+      "PackagePath": "staticwebassets/images/9173eea1-c2cc-4063-88b3-0c13f0d215e0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/91c7a9d5-4e17-4244-b4f9-54476ab48ddf.jpg",
+      "PackagePath": "staticwebassets/images/91c7a9d5-4e17-4244-b4f9-54476ab48ddf.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/92cad632-8df4-47d8-9ce8-63e938c3d1a8.jpg",
+      "PackagePath": "staticwebassets/images/92cad632-8df4-47d8-9ce8-63e938c3d1a8.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/930adee2-c02a-481a-81e0-83302fbc705d.webp",
+      "PackagePath": "staticwebassets/images/930adee2-c02a-481a-81e0-83302fbc705d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/930f37e8-5422-4c1a-a67d-c9438c1d9a98.jpg",
+      "PackagePath": "staticwebassets/images/930f37e8-5422-4c1a-a67d-c9438c1d9a98.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9397a650-816b-430d-9bba-536328ae5923.webp",
+      "PackagePath": "staticwebassets/images/9397a650-816b-430d-9bba-536328ae5923.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/939f6297-b2a0-48aa-ac37-286877007494.webp",
+      "PackagePath": "staticwebassets/images/939f6297-b2a0-48aa-ac37-286877007494.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/93cb0bd4-1b4c-43f7-91d6-76923db12c3f.jpg",
+      "PackagePath": "staticwebassets/images/93cb0bd4-1b4c-43f7-91d6-76923db12c3f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9408dea1-da71-45cf-a4ca-df7572512fbe.jpg",
+      "PackagePath": "staticwebassets/images/9408dea1-da71-45cf-a4ca-df7572512fbe.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/95708e7a-7cd1-4d46-b2a7-7ae59a9ce0c2.webp",
+      "PackagePath": "staticwebassets/images/95708e7a-7cd1-4d46-b2a7-7ae59a9ce0c2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/95983612-d159-4ece-9f28-85109032283a.webp",
+      "PackagePath": "staticwebassets/images/95983612-d159-4ece-9f28-85109032283a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/95c59099-87be-4c2f-a7ab-084d08242974.jpg",
+      "PackagePath": "staticwebassets/images/95c59099-87be-4c2f-a7ab-084d08242974.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/95e41446-124c-4b40-a520-d77e61143157.webp",
+      "PackagePath": "staticwebassets/images/95e41446-124c-4b40-a520-d77e61143157.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/960f35cc-aa75-402c-880f-060774145df5.jpg",
+      "PackagePath": "staticwebassets/images/960f35cc-aa75-402c-880f-060774145df5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/973f7ee3-969b-485c-86ca-9109aca749c1.webp",
+      "PackagePath": "staticwebassets/images/973f7ee3-969b-485c-86ca-9109aca749c1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/975b1ce7-105a-4bad-9a52-c57e16451642.jpg",
+      "PackagePath": "staticwebassets/images/975b1ce7-105a-4bad-9a52-c57e16451642.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/97658b84-14f6-45f1-a204-eb3a188ea11c.webp",
+      "PackagePath": "staticwebassets/images/97658b84-14f6-45f1-a204-eb3a188ea11c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/979b0f55-ba8c-43f2-bae7-67e57b88587a.webp",
+      "PackagePath": "staticwebassets/images/979b0f55-ba8c-43f2-bae7-67e57b88587a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/97c52f73-2497-4367-bb6e-3a8c87961e97.webp",
+      "PackagePath": "staticwebassets/images/97c52f73-2497-4367-bb6e-3a8c87961e97.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/98038499-444c-43fb-8688-0bac2a874600.webp",
+      "PackagePath": "staticwebassets/images/98038499-444c-43fb-8688-0bac2a874600.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/984ec3a8-7e90-4ddd-b023-fefd0984d38a.jpg",
+      "PackagePath": "staticwebassets/images/984ec3a8-7e90-4ddd-b023-fefd0984d38a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/985ed20e-c1c3-4f29-9493-d5b5040d310a.jpg",
+      "PackagePath": "staticwebassets/images/985ed20e-c1c3-4f29-9493-d5b5040d310a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/98d57589-18d1-4dbc-8981-070679416ebf.jpg",
+      "PackagePath": "staticwebassets/images/98d57589-18d1-4dbc-8981-070679416ebf.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/99dc9717-0ee5-4690-928b-2e1fd123d75c.webp",
+      "PackagePath": "staticwebassets/images/99dc9717-0ee5-4690-928b-2e1fd123d75c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9a26ed61-b197-46c2-b657-9f6fa59d4db3.webp",
+      "PackagePath": "staticwebassets/images/9a26ed61-b197-46c2-b657-9f6fa59d4db3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9a3422b4-d66a-46d9-bfde-741beae114b0.webp",
+      "PackagePath": "staticwebassets/images/9a3422b4-d66a-46d9-bfde-741beae114b0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9b926990-1bf5-4bfe-970b-fe909149949a.webp",
+      "PackagePath": "staticwebassets/images/9b926990-1bf5-4bfe-970b-fe909149949a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9bf72929-5bcd-4cff-adc2-b23b8e089d21.webp",
+      "PackagePath": "staticwebassets/images/9bf72929-5bcd-4cff-adc2-b23b8e089d21.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9c442b61-673a-49f0-9e82-35c04b9829c4.webp",
+      "PackagePath": "staticwebassets/images/9c442b61-673a-49f0-9e82-35c04b9829c4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9ce731df-a843-4950-bac8-4e16d2a2af49.webp",
+      "PackagePath": "staticwebassets/images/9ce731df-a843-4950-bac8-4e16d2a2af49.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9e6ecbc3-bc23-4087-bb0c-3aaf8c74853f.jpg",
+      "PackagePath": "staticwebassets/images/9e6ecbc3-bc23-4087-bb0c-3aaf8c74853f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9f0a35b4-989f-4e16-883c-daf41c2f6363.jpg",
+      "PackagePath": "staticwebassets/images/9f0a35b4-989f-4e16-883c-daf41c2f6363.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9f152150-bc53-4787-8e03-2ec355b3191a.webp",
+      "PackagePath": "staticwebassets/images/9f152150-bc53-4787-8e03-2ec355b3191a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9f23f8c3-ae48-4d2f-8246-6c2b61584b82.jpg",
+      "PackagePath": "staticwebassets/images/9f23f8c3-ae48-4d2f-8246-6c2b61584b82.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9f3d70e5-8a10-46e1-92ad-e6d01de4c47e.webp",
+      "PackagePath": "staticwebassets/images/9f3d70e5-8a10-46e1-92ad-e6d01de4c47e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9f6626e7-dd3c-4824-b6fc-6256a446dbe5.webp",
+      "PackagePath": "staticwebassets/images/9f6626e7-dd3c-4824-b6fc-6256a446dbe5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9fcee970-8145-4404-8bfb-0fe35b290dc1.webp",
+      "PackagePath": "staticwebassets/images/9fcee970-8145-4404-8bfb-0fe35b290dc1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/9fdfac62-0885-4509-9ba2-4bdc1a24720f.jpg",
+      "PackagePath": "staticwebassets/images/9fdfac62-0885-4509-9ba2-4bdc1a24720f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/Bloomie1.png",
+      "PackagePath": "staticwebassets/images/Bloomie1.png"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/BloomieFavicon.png",
+      "PackagePath": "staticwebassets/images/BloomieFavicon.png"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/BloomieLogo.png",
+      "PackagePath": "staticwebassets/images/BloomieLogo.png"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a074d525-a03f-4090-8c86-0abc384bd265.jpg",
+      "PackagePath": "staticwebassets/images/a074d525-a03f-4090-8c86-0abc384bd265.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a111b02a-4f02-4372-ad4d-feb21024ba03.webp",
+      "PackagePath": "staticwebassets/images/a111b02a-4f02-4372-ad4d-feb21024ba03.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a169f6d9-4a85-43a7-9263-f86c9de17a9c.jpg",
+      "PackagePath": "staticwebassets/images/a169f6d9-4a85-43a7-9263-f86c9de17a9c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a1d1e00c-3349-411d-b817-a783eed7ad9d.webp",
+      "PackagePath": "staticwebassets/images/a1d1e00c-3349-411d-b817-a783eed7ad9d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a219f982-96eb-42f0-8064-84457f175c3d.webp",
+      "PackagePath": "staticwebassets/images/a219f982-96eb-42f0-8064-84457f175c3d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a3508302-f097-4517-9a43-9d2c6fb7c2ee.webp",
+      "PackagePath": "staticwebassets/images/a3508302-f097-4517-9a43-9d2c6fb7c2ee.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a3e55c7d-5ae0-4383-ad4e-a548d5674d55.webp",
+      "PackagePath": "staticwebassets/images/a3e55c7d-5ae0-4383-ad4e-a548d5674d55.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a437cba0-12a0-49ee-8d17-cb117f98da4f.webp",
+      "PackagePath": "staticwebassets/images/a437cba0-12a0-49ee-8d17-cb117f98da4f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a453ddf6-610c-48b7-b05a-9af9b4cac733.webp",
+      "PackagePath": "staticwebassets/images/a453ddf6-610c-48b7-b05a-9af9b4cac733.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a45a6fb0-5b02-491e-8cef-b271b0bef06a.webp",
+      "PackagePath": "staticwebassets/images/a45a6fb0-5b02-491e-8cef-b271b0bef06a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a484d86c-25a3-44e0-89d6-1868e2a8ff10.webp",
+      "PackagePath": "staticwebassets/images/a484d86c-25a3-44e0-89d6-1868e2a8ff10.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a4b7c317-b69b-483c-beab-9a09584998db.jpg",
+      "PackagePath": "staticwebassets/images/a4b7c317-b69b-483c-beab-9a09584998db.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a4c6c562-74a3-4719-8dcb-398dacbdbead.jpg",
+      "PackagePath": "staticwebassets/images/a4c6c562-74a3-4719-8dcb-398dacbdbead.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a4e91da6-f03e-4de6-a77d-c5f2f57de186.jpg",
+      "PackagePath": "staticwebassets/images/a4e91da6-f03e-4de6-a77d-c5f2f57de186.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a5393f0c-7051-4b2a-92bc-c2e651418c67.jpg",
+      "PackagePath": "staticwebassets/images/a5393f0c-7051-4b2a-92bc-c2e651418c67.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a5a99278-a142-4bd7-bfff-2c5657e66a26.webp",
+      "PackagePath": "staticwebassets/images/a5a99278-a142-4bd7-bfff-2c5657e66a26.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a625a669-ca41-47b3-b69b-6dafe674f290.jpg",
+      "PackagePath": "staticwebassets/images/a625a669-ca41-47b3-b69b-6dafe674f290.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a6bcefe5-deb2-4cbe-b800-539f4a162c37.webp",
+      "PackagePath": "staticwebassets/images/a6bcefe5-deb2-4cbe-b800-539f4a162c37.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a75d4c00-7248-4aee-82ac-7e053d878008.webp",
+      "PackagePath": "staticwebassets/images/a75d4c00-7248-4aee-82ac-7e053d878008.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a761bdda-404d-483c-82c8-5ec20fa7bdf0.jpg",
+      "PackagePath": "staticwebassets/images/a761bdda-404d-483c-82c8-5ec20fa7bdf0.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a7ac793f-fcdc-4ed6-b5be-ce6e83b897ab.jpg",
+      "PackagePath": "staticwebassets/images/a7ac793f-fcdc-4ed6-b5be-ce6e83b897ab.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a8249e8c-2300-4d59-8db1-8d3bde24e859.jpg",
+      "PackagePath": "staticwebassets/images/a8249e8c-2300-4d59-8db1-8d3bde24e859.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a8ad98b4-3c5a-4764-ad5b-95c9f27e15a0.jpg",
+      "PackagePath": "staticwebassets/images/a8ad98b4-3c5a-4764-ad5b-95c9f27e15a0.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a8b311fc-d6c9-49eb-a762-e31e2ad4a21f.webp",
+      "PackagePath": "staticwebassets/images/a8b311fc-d6c9-49eb-a762-e31e2ad4a21f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a8b4b487-822a-467d-b732-1ee0d0738529.webp",
+      "PackagePath": "staticwebassets/images/a8b4b487-822a-467d-b732-1ee0d0738529.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a900d95a-23ed-4b7d-9138-8218dc9bb8e2.webp",
+      "PackagePath": "staticwebassets/images/a900d95a-23ed-4b7d-9138-8218dc9bb8e2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a92ecae8-5dfd-4738-a266-7fc9c5575d96.webp",
+      "PackagePath": "staticwebassets/images/a92ecae8-5dfd-4738-a266-7fc9c5575d96.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a9849886-9f22-4706-ad5e-aa77624aa6bf.jpg",
+      "PackagePath": "staticwebassets/images/a9849886-9f22-4706-ad5e-aa77624aa6bf.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a999f840-9f24-44e3-9e85-aff68ffc8b90.webp",
+      "PackagePath": "staticwebassets/images/a999f840-9f24-44e3-9e85-aff68ffc8b90.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a9a5f8ee-1aa5-4289-a1d0-d32306ceeb4b.webp",
+      "PackagePath": "staticwebassets/images/a9a5f8ee-1aa5-4289-a1d0-d32306ceeb4b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/a9daf178-42b3-4c8f-8a38-fee7a99e0615.jpg",
+      "PackagePath": "staticwebassets/images/a9daf178-42b3-4c8f-8a38-fee7a99e0615.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/aa2c08c7-4fc7-4d28-ab89-564e006e9766.webp",
+      "PackagePath": "staticwebassets/images/aa2c08c7-4fc7-4d28-ab89-564e006e9766.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/aa917a18-74ac-4a85-8b3e-665442aae6a2.webp",
+      "PackagePath": "staticwebassets/images/aa917a18-74ac-4a85-8b3e-665442aae6a2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/aadbd19e-f052-4e78-9af4-a83f15702c37.webp",
+      "PackagePath": "staticwebassets/images/aadbd19e-f052-4e78-9af4-a83f15702c37.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/aafd925d-d2cf-4472-91b7-e9680560a109.webp",
+      "PackagePath": "staticwebassets/images/aafd925d-d2cf-4472-91b7-e9680560a109.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/abcfe4c0-7686-4464-8a28-6ee4a4c559c2.webp",
+      "PackagePath": "staticwebassets/images/abcfe4c0-7686-4464-8a28-6ee4a4c559c2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ac0d9e06-b5c1-4f7b-ace7-7d7405b9a768.webp",
+      "PackagePath": "staticwebassets/images/ac0d9e06-b5c1-4f7b-ace7-7d7405b9a768.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ac4be028-2f9d-4e47-8b0f-fc542c9f271e.webp",
+      "PackagePath": "staticwebassets/images/ac4be028-2f9d-4e47-8b0f-fc542c9f271e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ad48bb64-d1b5-42b9-a7ae-e41d624a3651.jpg",
+      "PackagePath": "staticwebassets/images/ad48bb64-d1b5-42b9-a7ae-e41d624a3651.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ae7a393b-fe1e-4c48-964e-d072d961b55b.jpg",
+      "PackagePath": "staticwebassets/images/ae7a393b-fe1e-4c48-964e-d072d961b55b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ae86f90b-91bf-4208-9bb9-bb0f986b37e1.jpg",
+      "PackagePath": "staticwebassets/images/ae86f90b-91bf-4208-9bb9-bb0f986b37e1.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/af60905f-e5aa-4f50-83ac-e77821ae19a5.jpg",
+      "PackagePath": "staticwebassets/images/af60905f-e5aa-4f50-83ac-e77821ae19a5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/afaceeb5-3cf6-4e0f-bd35-47e51b899dab.jpg",
+      "PackagePath": "staticwebassets/images/afaceeb5-3cf6-4e0f-bd35-47e51b899dab.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b0bcd201-2958-46ed-a517-e0458d1de4d4.webp",
+      "PackagePath": "staticwebassets/images/b0bcd201-2958-46ed-a517-e0458d1de4d4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b1531d76-ed0a-480f-aca8-1f8785879dca.webp",
+      "PackagePath": "staticwebassets/images/b1531d76-ed0a-480f-aca8-1f8785879dca.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b2255f1f-66d4-4761-8a70-e39f710e0acb.webp",
+      "PackagePath": "staticwebassets/images/b2255f1f-66d4-4761-8a70-e39f710e0acb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b2f9102b-c206-462a-a1a0-3bd2b7eb8013.webp",
+      "PackagePath": "staticwebassets/images/b2f9102b-c206-462a-a1a0-3bd2b7eb8013.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b34cff5f-4c5f-41f1-a6f1-84ae3ca86d8c.webp",
+      "PackagePath": "staticwebassets/images/b34cff5f-4c5f-41f1-a6f1-84ae3ca86d8c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b3bb26d5-c767-41aa-bae9-eb542c733362.webp",
+      "PackagePath": "staticwebassets/images/b3bb26d5-c767-41aa-bae9-eb542c733362.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b3c97232-7702-473f-9c79-5172e64b9c4b.webp",
+      "PackagePath": "staticwebassets/images/b3c97232-7702-473f-9c79-5172e64b9c4b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b432fcab-655d-4e82-bbf0-ea571a7bd0f9.jpg",
+      "PackagePath": "staticwebassets/images/b432fcab-655d-4e82-bbf0-ea571a7bd0f9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b47b71ed-5b55-49d9-bb21-3f8ac592a529.webp",
+      "PackagePath": "staticwebassets/images/b47b71ed-5b55-49d9-bb21-3f8ac592a529.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b4a7012b-96bf-4814-9252-eb50f78b5ee7.jpg",
+      "PackagePath": "staticwebassets/images/b4a7012b-96bf-4814-9252-eb50f78b5ee7.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b543d5a7-55eb-46ca-904a-b0443fdbc9c3.webp",
+      "PackagePath": "staticwebassets/images/b543d5a7-55eb-46ca-904a-b0443fdbc9c3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b561a6a9-5fa8-4934-a039-c5307014fd2c.webp",
+      "PackagePath": "staticwebassets/images/b561a6a9-5fa8-4934-a039-c5307014fd2c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b60a3c97-40bd-4c13-9454-ae10afa09188.jpg",
+      "PackagePath": "staticwebassets/images/b60a3c97-40bd-4c13-9454-ae10afa09188.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b616a89a-1561-4fcc-a6be-f06bde1b2c92.webp",
+      "PackagePath": "staticwebassets/images/b616a89a-1561-4fcc-a6be-f06bde1b2c92.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b752b358-9981-401d-85aa-d9a5678621bf.webp",
+      "PackagePath": "staticwebassets/images/b752b358-9981-401d-85aa-d9a5678621bf.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b75a390b-f995-48b8-87b7-f5276049aff3.jpg",
+      "PackagePath": "staticwebassets/images/b75a390b-f995-48b8-87b7-f5276049aff3.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b76ff2b8-7d4c-414c-8fc5-e3bbad74ca69.webp",
+      "PackagePath": "staticwebassets/images/b76ff2b8-7d4c-414c-8fc5-e3bbad74ca69.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b8351262-8d7c-4d2e-b928-032827807c2e.webp",
+      "PackagePath": "staticwebassets/images/b8351262-8d7c-4d2e-b928-032827807c2e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b8b1413d-f901-4593-873e-14f7bf22eed9.webp",
+      "PackagePath": "staticwebassets/images/b8b1413d-f901-4593-873e-14f7bf22eed9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b8c50259-1bf7-49b2-afb4-ee0994ca1c67.webp",
+      "PackagePath": "staticwebassets/images/b8c50259-1bf7-49b2-afb4-ee0994ca1c67.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b90b0e51-3321-4253-b5a7-6e9f59a5edeb.webp",
+      "PackagePath": "staticwebassets/images/b90b0e51-3321-4253-b5a7-6e9f59a5edeb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b927b8f5-c01c-4113-af6d-71f4729faecb.webp",
+      "PackagePath": "staticwebassets/images/b927b8f5-c01c-4113-af6d-71f4729faecb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b950f315-c262-4f02-8f15-8d5521652d9e.webp",
+      "PackagePath": "staticwebassets/images/b950f315-c262-4f02-8f15-8d5521652d9e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/b95eb078-5038-4706-a88d-3fc6d7f8dc72.webp",
+      "PackagePath": "staticwebassets/images/b95eb078-5038-4706-a88d-3fc6d7f8dc72.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ba767cf9-a49e-4d5a-a3b4-a236b3abf7e3.jpg",
+      "PackagePath": "staticwebassets/images/ba767cf9-a49e-4d5a-a3b4-a236b3abf7e3.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ba8a47b4-6225-457f-854e-11e890ba2db3.webp",
+      "PackagePath": "staticwebassets/images/ba8a47b4-6225-457f-854e-11e890ba2db3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bab4b7c9-bdc0-4a9a-b461-8c9fea9c48fa.jpg",
+      "PackagePath": "staticwebassets/images/bab4b7c9-bdc0-4a9a-b461-8c9fea9c48fa.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/banner1.gif",
+      "PackagePath": "staticwebassets/images/banner1.gif"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/banner2.gif",
+      "PackagePath": "staticwebassets/images/banner2.gif"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/banner3.gif",
+      "PackagePath": "staticwebassets/images/banner3.gif"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/banner4.gif",
+      "PackagePath": "staticwebassets/images/banner4.gif"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bbe25fef-960a-45f6-8da8-1ade6eaed102.webp",
+      "PackagePath": "staticwebassets/images/bbe25fef-960a-45f6-8da8-1ade6eaed102.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bbff8f3c-d3af-4e42-8638-a487b98e51a6.webp",
+      "PackagePath": "staticwebassets/images/bbff8f3c-d3af-4e42-8638-a487b98e51a6.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bc2489b6-a457-4cf6-9de1-ea72bd092512.jpg",
+      "PackagePath": "staticwebassets/images/bc2489b6-a457-4cf6-9de1-ea72bd092512.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bc534832-8dd2-4cef-beb2-ff21d45ca0e9.jpg",
+      "PackagePath": "staticwebassets/images/bc534832-8dd2-4cef-beb2-ff21d45ca0e9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bc615fc9-75e9-4aec-91b4-0505c5631dfb.webp",
+      "PackagePath": "staticwebassets/images/bc615fc9-75e9-4aec-91b4-0505c5631dfb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bd093236-94cd-4f53-8d60-ac79f57ef2c8.webp",
+      "PackagePath": "staticwebassets/images/bd093236-94cd-4f53-8d60-ac79f57ef2c8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bd15a159-8f23-477c-bf51-e6b691240920.jpg",
+      "PackagePath": "staticwebassets/images/bd15a159-8f23-477c-bf51-e6b691240920.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/be41dc69-cf02-46fd-9837-5702860470a5.jpg",
+      "PackagePath": "staticwebassets/images/be41dc69-cf02-46fd-9837-5702860470a5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/be75f223-65cf-476e-8385-8001a2a08ce0.jpg",
+      "PackagePath": "staticwebassets/images/be75f223-65cf-476e-8385-8001a2a08ce0.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bedb4f4a-8387-4cef-84a0-891256442466.webp",
+      "PackagePath": "staticwebassets/images/bedb4f4a-8387-4cef-84a0-891256442466.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bf0b38e9-93a9-49b1-a5dd-517ed3bca5df.webp",
+      "PackagePath": "staticwebassets/images/bf0b38e9-93a9-49b1-a5dd-517ed3bca5df.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/bfb98887-b290-4e2f-8373-4ef5c782889f.jpg",
+      "PackagePath": "staticwebassets/images/bfb98887-b290-4e2f-8373-4ef5c782889f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c0518252-8c96-4580-bf15-fc2efc50115b.webp",
+      "PackagePath": "staticwebassets/images/c0518252-8c96-4580-bf15-fc2efc50115b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c0aeba97-5d4d-46e4-acd2-6d9daf6f5b76.webp",
+      "PackagePath": "staticwebassets/images/c0aeba97-5d4d-46e4-acd2-6d9daf6f5b76.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c0bb3b8d-3c21-444f-b6f7-addb1a10dd5e.webp",
+      "PackagePath": "staticwebassets/images/c0bb3b8d-3c21-444f-b6f7-addb1a10dd5e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c0bbbed0-8b83-42d2-8e21-540a2c384d8c.jpg",
+      "PackagePath": "staticwebassets/images/c0bbbed0-8b83-42d2-8e21-540a2c384d8c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c0c37bfd-739f-4cdf-b657-9df21cc439ae.webp",
+      "PackagePath": "staticwebassets/images/c0c37bfd-739f-4cdf-b657-9df21cc439ae.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c1319040-ae5e-41cb-93fb-5c0a8a1f2cf3.webp",
+      "PackagePath": "staticwebassets/images/c1319040-ae5e-41cb-93fb-5c0a8a1f2cf3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c13a3932-eef3-460a-91aa-a436030d9452.jpg",
+      "PackagePath": "staticwebassets/images/c13a3932-eef3-460a-91aa-a436030d9452.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c143d748-8582-42be-8476-b6631f88cdd8.webp",
+      "PackagePath": "staticwebassets/images/c143d748-8582-42be-8476-b6631f88cdd8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c15e3b7b-632d-4463-8432-2e05d363951b.jpg",
+      "PackagePath": "staticwebassets/images/c15e3b7b-632d-4463-8432-2e05d363951b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c1695206-16d3-4a82-afe4-de6b2955a008.webp",
+      "PackagePath": "staticwebassets/images/c1695206-16d3-4a82-afe4-de6b2955a008.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c185c5e4-3733-45e0-910a-8a6de08fceb7.jpg",
+      "PackagePath": "staticwebassets/images/c185c5e4-3733-45e0-910a-8a6de08fceb7.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c19e3e09-1866-4707-9268-86e9c6059cb5.webp",
+      "PackagePath": "staticwebassets/images/c19e3e09-1866-4707-9268-86e9c6059cb5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c212eb96-a394-4653-8eae-82807c719c7b.webp",
+      "PackagePath": "staticwebassets/images/c212eb96-a394-4653-8eae-82807c719c7b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c26b170c-b44e-4ae4-8654-376e312ae533.webp",
+      "PackagePath": "staticwebassets/images/c26b170c-b44e-4ae4-8654-376e312ae533.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c3155cba-63af-4770-ba71-f81ebfbd92e4.webp",
+      "PackagePath": "staticwebassets/images/c3155cba-63af-4770-ba71-f81ebfbd92e4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c33ab254-1d56-4e0e-b555-fb25602d0922.webp",
+      "PackagePath": "staticwebassets/images/c33ab254-1d56-4e0e-b555-fb25602d0922.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c43fdefc-e406-4272-baba-387f44687cfc.webp",
+      "PackagePath": "staticwebassets/images/c43fdefc-e406-4272-baba-387f44687cfc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c461c279-baa3-4283-a3f9-9b117bfc902e.webp",
+      "PackagePath": "staticwebassets/images/c461c279-baa3-4283-a3f9-9b117bfc902e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c4857312-4995-4159-95e0-0c94234da7eb.webp",
+      "PackagePath": "staticwebassets/images/c4857312-4995-4159-95e0-0c94234da7eb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c4cf7363-8208-44d4-9195-1bd03da5b8a7.jpg",
+      "PackagePath": "staticwebassets/images/c4cf7363-8208-44d4-9195-1bd03da5b8a7.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c65dc95f-cb10-438c-9ed6-47da99fc2d77.jpg",
+      "PackagePath": "staticwebassets/images/c65dc95f-cb10-438c-9ed6-47da99fc2d77.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c7cb5de4-71d4-4a56-be38-1e45a8a346fb.webp",
+      "PackagePath": "staticwebassets/images/c7cb5de4-71d4-4a56-be38-1e45a8a346fb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c7ff9c39-0ab9-4a42-8eeb-421eac7f5671.jpg",
+      "PackagePath": "staticwebassets/images/c7ff9c39-0ab9-4a42-8eeb-421eac7f5671.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c8305141-909a-4dcd-8895-441e1e13b504.webp",
+      "PackagePath": "staticwebassets/images/c8305141-909a-4dcd-8895-441e1e13b504.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c8633342-432a-44d6-b9f9-9d9a8165e037.webp",
+      "PackagePath": "staticwebassets/images/c8633342-432a-44d6-b9f9-9d9a8165e037.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c9100a29-d338-4813-a0c9-50ed1b462e3e.webp",
+      "PackagePath": "staticwebassets/images/c9100a29-d338-4813-a0c9-50ed1b462e3e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c963afa5-e4bd-455d-9492-1d72aac55fbe.webp",
+      "PackagePath": "staticwebassets/images/c963afa5-e4bd-455d-9492-1d72aac55fbe.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/c9e94a06-87b4-4c2b-abd9-acda03a86f91.webp",
+      "PackagePath": "staticwebassets/images/c9e94a06-87b4-4c2b-abd9-acda03a86f91.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ca4f811c-6eb9-444b-9896-74d111e176d2.webp",
+      "PackagePath": "staticwebassets/images/ca4f811c-6eb9-444b-9896-74d111e176d2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cacf1041-b67f-48d9-8fd2-576d07018553.jpg",
+      "PackagePath": "staticwebassets/images/cacf1041-b67f-48d9-8fd2-576d07018553.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cb75f696-8db7-4925-99c3-df1ab6b747e2.jpg",
+      "PackagePath": "staticwebassets/images/cb75f696-8db7-4925-99c3-df1ab6b747e2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cbd31050-28c2-4323-ba76-51cb68c60ca3.jpg",
+      "PackagePath": "staticwebassets/images/cbd31050-28c2-4323-ba76-51cb68c60ca3.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cbe717fa-fa7a-4739-b050-e7f9485d3464.jpg",
+      "PackagePath": "staticwebassets/images/cbe717fa-fa7a-4739-b050-e7f9485d3464.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cc11c0bc-0d96-4797-9c46-7808413b24b1.webp",
+      "PackagePath": "staticwebassets/images/cc11c0bc-0d96-4797-9c46-7808413b24b1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cc4749c0-880c-420c-bb70-d39de140ca76.webp",
+      "PackagePath": "staticwebassets/images/cc4749c0-880c-420c-bb70-d39de140ca76.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cc71eef8-674c-40b0-bd57-28cfefdf069d.jpg",
+      "PackagePath": "staticwebassets/images/cc71eef8-674c-40b0-bd57-28cfefdf069d.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cc767a15-ff47-4233-bfd5-a3f500a2600e.webp",
+      "PackagePath": "staticwebassets/images/cc767a15-ff47-4233-bfd5-a3f500a2600e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cc800712-b027-432a-b1f3-4c5077e327fe.webp",
+      "PackagePath": "staticwebassets/images/cc800712-b027-432a-b1f3-4c5077e327fe.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cc9dedcd-59e5-4d0d-943a-130df2a32e8f.webp",
+      "PackagePath": "staticwebassets/images/cc9dedcd-59e5-4d0d-943a-130df2a32e8f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ccc09f09-d4f6-4576-990e-b93020f494f5.webp",
+      "PackagePath": "staticwebassets/images/ccc09f09-d4f6-4576-990e-b93020f494f5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ccc429ad-7c2e-4c1a-b421-63404c4cc5dd.webp",
+      "PackagePath": "staticwebassets/images/ccc429ad-7c2e-4c1a-b421-63404c4cc5dd.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cdc8f8ea-5210-41e6-9e39-7dfe0abf8885.jpg",
+      "PackagePath": "staticwebassets/images/cdc8f8ea-5210-41e6-9e39-7dfe0abf8885.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cdd27371-f72a-4472-8378-3f4a0beb9816.jpg",
+      "PackagePath": "staticwebassets/images/cdd27371-f72a-4472-8378-3f4a0beb9816.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cdd4ba4d-cf8d-4ded-9e5c-3c3f84ff2cd4.webp",
+      "PackagePath": "staticwebassets/images/cdd4ba4d-cf8d-4ded-9e5c-3c3f84ff2cd4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ce147355-1632-4ee3-b64d-b4a6ff33f47b.webp",
+      "PackagePath": "staticwebassets/images/ce147355-1632-4ee3-b64d-b4a6ff33f47b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ce6e98b9-1da4-4f0b-a239-e89b9e9e62b3.webp",
+      "PackagePath": "staticwebassets/images/ce6e98b9-1da4-4f0b-a239-e89b9e9e62b3.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ce7b47a1-e15a-4cec-8b39-8c3e95c33c68.jpg",
+      "PackagePath": "staticwebassets/images/ce7b47a1-e15a-4cec-8b39-8c3e95c33c68.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cf2deed3-3459-47c8-9a46-31c579adfd0b.webp",
+      "PackagePath": "staticwebassets/images/cf2deed3-3459-47c8-9a46-31c579adfd0b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cfa3db12-ad05-4488-90ae-d12edfd32295.jpg",
+      "PackagePath": "staticwebassets/images/cfa3db12-ad05-4488-90ae-d12edfd32295.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cfbd39c3-2d2e-45b4-bd96-e6a603402bfb.webp",
+      "PackagePath": "staticwebassets/images/cfbd39c3-2d2e-45b4-bd96-e6a603402bfb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/cod-logo.jpg",
+      "PackagePath": "staticwebassets/images/cod-logo.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d0124816-25b4-4531-b1e5-8516c348805c.jpg",
+      "PackagePath": "staticwebassets/images/d0124816-25b4-4531-b1e5-8516c348805c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d06fb3f4-ba43-4b0a-8970-a373822ba45a.jpg",
+      "PackagePath": "staticwebassets/images/d06fb3f4-ba43-4b0a-8970-a373822ba45a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d0e258ae-a449-48d0-aee0-2ca8c590cf6c.jpg",
+      "PackagePath": "staticwebassets/images/d0e258ae-a449-48d0-aee0-2ca8c590cf6c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d1108f84-1a39-46e2-9a26-bb20ef14d760.webp",
+      "PackagePath": "staticwebassets/images/d1108f84-1a39-46e2-9a26-bb20ef14d760.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d1842224-a536-416b-98f7-da382d02666a.webp",
+      "PackagePath": "staticwebassets/images/d1842224-a536-416b-98f7-da382d02666a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d1fad4aa-63d9-46bb-b773-d554167e2df6.jpg",
+      "PackagePath": "staticwebassets/images/d1fad4aa-63d9-46bb-b773-d554167e2df6.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d34819ab-699a-4905-a5d3-6326776251aa.webp",
+      "PackagePath": "staticwebassets/images/d34819ab-699a-4905-a5d3-6326776251aa.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d37c4c96-1eff-478c-89e6-03eeae480c7c.jpg",
+      "PackagePath": "staticwebassets/images/d37c4c96-1eff-478c-89e6-03eeae480c7c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d3c38f01-a87a-4622-970b-1165b23c9b57.jpg",
+      "PackagePath": "staticwebassets/images/d3c38f01-a87a-4622-970b-1165b23c9b57.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d4c2c124-0c90-4ff4-b53e-0bd8db3040f4.webp",
+      "PackagePath": "staticwebassets/images/d4c2c124-0c90-4ff4-b53e-0bd8db3040f4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d62ad67d-7a53-4a30-bd3e-d8d74e3c2d3d.webp",
+      "PackagePath": "staticwebassets/images/d62ad67d-7a53-4a30-bd3e-d8d74e3c2d3d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d6436b08-2df1-4b9d-9f0f-353422431848.jpg",
+      "PackagePath": "staticwebassets/images/d6436b08-2df1-4b9d-9f0f-353422431848.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d649444a-18cb-4c0c-a2c6-e65cb7014a46.jpg",
+      "PackagePath": "staticwebassets/images/d649444a-18cb-4c0c-a2c6-e65cb7014a46.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d7442a30-7b86-4c86-87c4-7e894be02d19.webp",
+      "PackagePath": "staticwebassets/images/d7442a30-7b86-4c86-87c4-7e894be02d19.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d7813fe0-ae48-404b-b99f-a92a3aa839a2.webp",
+      "PackagePath": "staticwebassets/images/d7813fe0-ae48-404b-b99f-a92a3aa839a2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d7b29ae3-629c-4fd6-9f41-6a4de9f70e66.webp",
+      "PackagePath": "staticwebassets/images/d7b29ae3-629c-4fd6-9f41-6a4de9f70e66.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d824b512-fd42-45f3-8276-484280454349.jpg",
+      "PackagePath": "staticwebassets/images/d824b512-fd42-45f3-8276-484280454349.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d85db4f6-38d1-4e5c-bd82-0601418948a8.webp",
+      "PackagePath": "staticwebassets/images/d85db4f6-38d1-4e5c-bd82-0601418948a8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d8c6bca1-1c4e-421a-a7e3-247235746f7a.jpg",
+      "PackagePath": "staticwebassets/images/d8c6bca1-1c4e-421a-a7e3-247235746f7a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d92572c9-3900-48dd-9cd2-2a6de90979cb.webp",
+      "PackagePath": "staticwebassets/images/d92572c9-3900-48dd-9cd2-2a6de90979cb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d9625e0e-a87b-4506-8b2c-c4664d4a7823.webp",
+      "PackagePath": "staticwebassets/images/d9625e0e-a87b-4506-8b2c-c4664d4a7823.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/d9e25738-ac0b-4a88-afe6-bf925180d97c.webp",
+      "PackagePath": "staticwebassets/images/d9e25738-ac0b-4a88-afe6-bf925180d97c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dad3d92e-c0ca-42fc-8de1-c076df879bfb.jpg",
+      "PackagePath": "staticwebassets/images/dad3d92e-c0ca-42fc-8de1-c076df879bfb.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/db6eb624-e7ea-4a07-a2fd-1c611652d0da.webp",
+      "PackagePath": "staticwebassets/images/db6eb624-e7ea-4a07-a2fd-1c611652d0da.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dba51a7c-282e-4582-89bf-05e0be18df87.webp",
+      "PackagePath": "staticwebassets/images/dba51a7c-282e-4582-89bf-05e0be18df87.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dc90eef9-4ad6-4a07-a19c-0f52d835f039.webp",
+      "PackagePath": "staticwebassets/images/dc90eef9-4ad6-4a07-a19c-0f52d835f039.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dd19edbe-98f5-447e-8c05-38e2272efaee.webp",
+      "PackagePath": "staticwebassets/images/dd19edbe-98f5-447e-8c05-38e2272efaee.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dd67a698-be8f-4548-b41b-bb3f74f4302e.webp",
+      "PackagePath": "staticwebassets/images/dd67a698-be8f-4548-b41b-bb3f74f4302e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dd6f4ab2-9773-4316-a921-1c539211705e.jpg",
+      "PackagePath": "staticwebassets/images/dd6f4ab2-9773-4316-a921-1c539211705e.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dd85be86-07fc-44af-bccf-0aa6d0bbf940.webp",
+      "PackagePath": "staticwebassets/images/dd85be86-07fc-44af-bccf-0aa6d0bbf940.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/de00ff69-6aaa-485f-95fc-055d2984e594.jpg",
+      "PackagePath": "staticwebassets/images/de00ff69-6aaa-485f-95fc-055d2984e594.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/de020aab-0a7a-468c-8b7d-7a0bbd62eceb.webp",
+      "PackagePath": "staticwebassets/images/de020aab-0a7a-468c-8b7d-7a0bbd62eceb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/de8ed5f6-2ded-4df0-99ac-397a35fd7ddb.jpg",
+      "PackagePath": "staticwebassets/images/de8ed5f6-2ded-4df0-99ac-397a35fd7ddb.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/decd2c13-90a4-445c-8071-89aa2018f417.webp",
+      "PackagePath": "staticwebassets/images/decd2c13-90a4-445c-8071-89aa2018f417.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/df43fbed-8bc6-4b2b-b70f-fdf978cd5406.webp",
+      "PackagePath": "staticwebassets/images/df43fbed-8bc6-4b2b-b70f-fdf978cd5406.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dfc2e319-2f1f-4a99-be0d-f61bdbe9efa2.jpg",
+      "PackagePath": "staticwebassets/images/dfc2e319-2f1f-4a99-be0d-f61bdbe9efa2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/dfdcf250-34c0-4f49-851b-d37901277a7c.jpg",
+      "PackagePath": "staticwebassets/images/dfdcf250-34c0-4f49-851b-d37901277a7c.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e11b0a18-57b8-4b30-a3df-a7b5de9d04a4.jpg",
+      "PackagePath": "staticwebassets/images/e11b0a18-57b8-4b30-a3df-a7b5de9d04a4.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e1aae935-a006-48a7-85f6-f6b8328525c5.webp",
+      "PackagePath": "staticwebassets/images/e1aae935-a006-48a7-85f6-f6b8328525c5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e236e5c4-9d8e-41ad-b88c-6d3eda1a3bd6.webp",
+      "PackagePath": "staticwebassets/images/e236e5c4-9d8e-41ad-b88c-6d3eda1a3bd6.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e23a43d6-a95e-4558-8d0f-77e6351e5d91.jpg",
+      "PackagePath": "staticwebassets/images/e23a43d6-a95e-4558-8d0f-77e6351e5d91.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e2ba2f76-b8ee-4a7a-8835-0457780fa5f7.webp",
+      "PackagePath": "staticwebassets/images/e2ba2f76-b8ee-4a7a-8835-0457780fa5f7.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e39aebfa-f661-4f64-b0ae-3b7600a7a08d.webp",
+      "PackagePath": "staticwebassets/images/e39aebfa-f661-4f64-b0ae-3b7600a7a08d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e39e680f-7b24-4cb9-a1cc-23d25556a4c2.webp",
+      "PackagePath": "staticwebassets/images/e39e680f-7b24-4cb9-a1cc-23d25556a4c2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e3a79c0a-93d1-42ae-b87a-f7fb56b2b987.webp",
+      "PackagePath": "staticwebassets/images/e3a79c0a-93d1-42ae-b87a-f7fb56b2b987.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e430338e-99e3-47af-880b-c813aae79f55.webp",
+      "PackagePath": "staticwebassets/images/e430338e-99e3-47af-880b-c813aae79f55.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e4498753-f655-44d0-ae6b-58ce880e28fb.webp",
+      "PackagePath": "staticwebassets/images/e4498753-f655-44d0-ae6b-58ce880e28fb.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e4542e70-857e-4bd9-a44d-17003a0163dc.webp",
+      "PackagePath": "staticwebassets/images/e4542e70-857e-4bd9-a44d-17003a0163dc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e4eea2a7-d606-4f7a-ad7f-0e6974e9873c.webp",
+      "PackagePath": "staticwebassets/images/e4eea2a7-d606-4f7a-ad7f-0e6974e9873c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e50cf481-7114-44ee-9e01-c554b5754e41.webp",
+      "PackagePath": "staticwebassets/images/e50cf481-7114-44ee-9e01-c554b5754e41.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e54792b8-e898-4ef2-9e3b-390cd1276ac1.webp",
+      "PackagePath": "staticwebassets/images/e54792b8-e898-4ef2-9e3b-390cd1276ac1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e5b55266-dbfa-40c2-86e3-603d8d671ab6.webp",
+      "PackagePath": "staticwebassets/images/e5b55266-dbfa-40c2-86e3-603d8d671ab6.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e6520a73-9c85-4af5-9d99-90072466e2ab.webp",
+      "PackagePath": "staticwebassets/images/e6520a73-9c85-4af5-9d99-90072466e2ab.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e6cf993d-2b20-4958-bbd6-c1e99cdad5f4.webp",
+      "PackagePath": "staticwebassets/images/e6cf993d-2b20-4958-bbd6-c1e99cdad5f4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e76c5d39-ec19-42ff-9b97-bc65159de17b.webp",
+      "PackagePath": "staticwebassets/images/e76c5d39-ec19-42ff-9b97-bc65159de17b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e86f11a9-9ab0-4df4-9a12-b91485298d12.jpg",
+      "PackagePath": "staticwebassets/images/e86f11a9-9ab0-4df4-9a12-b91485298d12.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e939165a-56d6-4ed3-83b3-8bae1d73b904.webp",
+      "PackagePath": "staticwebassets/images/e939165a-56d6-4ed3-83b3-8bae1d73b904.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e97916fb-d011-4fed-b802-2e04d8bf61ba.webp",
+      "PackagePath": "staticwebassets/images/e97916fb-d011-4fed-b802-2e04d8bf61ba.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e9cf2ee9-7659-4888-8cb1-2fa24c7e5339.jpg",
+      "PackagePath": "staticwebassets/images/e9cf2ee9-7659-4888-8cb1-2fa24c7e5339.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e9d60f76-148e-443d-893f-c9bd76d010ab.webp",
+      "PackagePath": "staticwebassets/images/e9d60f76-148e-443d-893f-c9bd76d010ab.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/e9daddd8-7661-46c6-8600-27378ffeb623.jpg",
+      "PackagePath": "staticwebassets/images/e9daddd8-7661-46c6-8600-27378ffeb623.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ea24d868-005f-4a60-b71d-076b46f24767.webp",
+      "PackagePath": "staticwebassets/images/ea24d868-005f-4a60-b71d-076b46f24767.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ea356f4c-fa55-49f1-8241-29e949c66969.webp",
+      "PackagePath": "staticwebassets/images/ea356f4c-fa55-49f1-8241-29e949c66969.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ea3efecb-f364-4dc7-97b0-4870fe0d9af5.jpg",
+      "PackagePath": "staticwebassets/images/ea3efecb-f364-4dc7-97b0-4870fe0d9af5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ea5ab311-f4f0-4db4-bfb7-4f8d07f58967.jpg",
+      "PackagePath": "staticwebassets/images/ea5ab311-f4f0-4db4-bfb7-4f8d07f58967.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ea5c59c5-ca6a-41ea-86ae-6520f071f09b.webp",
+      "PackagePath": "staticwebassets/images/ea5c59c5-ca6a-41ea-86ae-6520f071f09b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ead9205d-cbf1-47ed-bb5a-90b4253fdbd7.webp",
+      "PackagePath": "staticwebassets/images/ead9205d-cbf1-47ed-bb5a-90b4253fdbd7.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ecf6e751-2f3f-4df1-ae63-16a5f3dea1e0.webp",
+      "PackagePath": "staticwebassets/images/ecf6e751-2f3f-4df1-ae63-16a5f3dea1e0.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ecfaa6dc-3ad5-4e90-b6aa-a3491d96488f.jpg",
+      "PackagePath": "staticwebassets/images/ecfaa6dc-3ad5-4e90-b6aa-a3491d96488f.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ecfe6b41-8dc7-4df4-b7c0-7afe956c5cbc.webp",
+      "PackagePath": "staticwebassets/images/ecfe6b41-8dc7-4df4-b7c0-7afe956c5cbc.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ed9a0b12-e2a9-4547-8563-da42e496bdce.webp",
+      "PackagePath": "staticwebassets/images/ed9a0b12-e2a9-4547-8563-da42e496bdce.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/edad2071-b5fa-4e13-a0e3-ec7d4787cd0f.webp",
+      "PackagePath": "staticwebassets/images/edad2071-b5fa-4e13-a0e3-ec7d4787cd0f.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/edba6840-c4dc-4e95-8474-d22894c9fabf.jpg",
+      "PackagePath": "staticwebassets/images/edba6840-c4dc-4e95-8474-d22894c9fabf.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/edbf2be1-4b30-483d-b141-be4ce80bf0e9.webp",
+      "PackagePath": "staticwebassets/images/edbf2be1-4b30-483d-b141-be4ce80bf0e9.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ee032c23-631d-4936-8af9-0802346f804e.webp",
+      "PackagePath": "staticwebassets/images/ee032c23-631d-4936-8af9-0802346f804e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ee07638f-c35d-4b09-a66a-ae3cf1c684ff.webp",
+      "PackagePath": "staticwebassets/images/ee07638f-c35d-4b09-a66a-ae3cf1c684ff.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ee31578b-ceea-456d-9650-b454ad1bd33c.webp",
+      "PackagePath": "staticwebassets/images/ee31578b-ceea-456d-9650-b454ad1bd33c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ee8b6ca2-5d76-4989-be70-2e3c1ffe53a8.jpg",
+      "PackagePath": "staticwebassets/images/ee8b6ca2-5d76-4989-be70-2e3c1ffe53a8.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ef8d4068-94a9-456a-8790-4cb464cb8e1b.webp",
+      "PackagePath": "staticwebassets/images/ef8d4068-94a9-456a-8790-4cb464cb8e1b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/efd8d662-98e2-4d94-8564-995ecb78b513.webp",
+      "PackagePath": "staticwebassets/images/efd8d662-98e2-4d94-8564-995ecb78b513.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f0662ca0-ab28-4d2a-8bba-865388e76be7.webp",
+      "PackagePath": "staticwebassets/images/f0662ca0-ab28-4d2a-8bba-865388e76be7.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f08d767b-45d6-4fe5-833b-dc17152c2042.jpg",
+      "PackagePath": "staticwebassets/images/f08d767b-45d6-4fe5-833b-dc17152c2042.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f19b3f14-744d-4601-9792-816b5e165cf2.webp",
+      "PackagePath": "staticwebassets/images/f19b3f14-744d-4601-9792-816b5e165cf2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f305a553-96bc-48d6-a1f9-93639d0c1040.webp",
+      "PackagePath": "staticwebassets/images/f305a553-96bc-48d6-a1f9-93639d0c1040.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f305d846-c3b3-4154-ad7b-75c062084130.webp",
+      "PackagePath": "staticwebassets/images/f305d846-c3b3-4154-ad7b-75c062084130.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f4bdac78-9579-41de-9a10-4786d5672ac3.jpg",
+      "PackagePath": "staticwebassets/images/f4bdac78-9579-41de-9a10-4786d5672ac3.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f4f4b65e-f058-4bec-9c84-6e719cd77ea2.webp",
+      "PackagePath": "staticwebassets/images/f4f4b65e-f058-4bec-9c84-6e719cd77ea2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f4f87cd4-3c79-480a-ad69-97cc4c924023.webp",
+      "PackagePath": "staticwebassets/images/f4f87cd4-3c79-480a-ad69-97cc4c924023.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f56c867c-98ed-40d6-9104-1e571dea0560.webp",
+      "PackagePath": "staticwebassets/images/f56c867c-98ed-40d6-9104-1e571dea0560.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f5c9fe23-5f61-4ea7-a23d-90e75f29d9fe.jpg",
+      "PackagePath": "staticwebassets/images/f5c9fe23-5f61-4ea7-a23d-90e75f29d9fe.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f64b8649-0202-4099-80aa-95a84ca5ea09.jpg",
+      "PackagePath": "staticwebassets/images/f64b8649-0202-4099-80aa-95a84ca5ea09.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f7a0a55c-8201-4668-998b-e1616619af5d.webp",
+      "PackagePath": "staticwebassets/images/f7a0a55c-8201-4668-998b-e1616619af5d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f86002cb-b995-4f1b-aeae-3454ee246f22.jpg",
+      "PackagePath": "staticwebassets/images/f86002cb-b995-4f1b-aeae-3454ee246f22.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f88b4802-2fbf-4f92-9e47-88a6135839b9.jpg",
+      "PackagePath": "staticwebassets/images/f88b4802-2fbf-4f92-9e47-88a6135839b9.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f8de61c4-0084-4b9b-99b4-c61b8e6767c1.webp",
+      "PackagePath": "staticwebassets/images/f8de61c4-0084-4b9b-99b4-c61b8e6767c1.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f9d5cb5b-f1a3-4574-b395-6be6869a9ee2.jpg",
+      "PackagePath": "staticwebassets/images/f9d5cb5b-f1a3-4574-b395-6be6869a9ee2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f9d89246-c6a6-441a-a600-0c2b6bde65bd.jpg",
+      "PackagePath": "staticwebassets/images/f9d89246-c6a6-441a-a600-0c2b6bde65bd.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/f9e4ab5e-b843-4407-8059-cf8b6f268e77.jpg",
+      "PackagePath": "staticwebassets/images/f9e4ab5e-b843-4407-8059-cf8b6f268e77.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fa2c802d-8541-42e2-98de-208845e721e4.webp",
+      "PackagePath": "staticwebassets/images/fa2c802d-8541-42e2-98de-208845e721e4.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fa2def28-64ca-4346-87bc-af7f41ca8f39.webp",
+      "PackagePath": "staticwebassets/images/fa2def28-64ca-4346-87bc-af7f41ca8f39.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fa7312ff-347a-47ce-82ad-39c41915d08a.webp",
+      "PackagePath": "staticwebassets/images/fa7312ff-347a-47ce-82ad-39c41915d08a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fb0a1b73-6dbb-4282-8faf-f78add3a3767.jpg",
+      "PackagePath": "staticwebassets/images/fb0a1b73-6dbb-4282-8faf-f78add3a3767.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fb4ecbaf-98c1-4b60-bea7-75b5b29402f2.webp",
+      "PackagePath": "staticwebassets/images/fb4ecbaf-98c1-4b60-bea7-75b5b29402f2.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fb521f92-8a01-4fba-af2a-553be4945563.jpg",
+      "PackagePath": "staticwebassets/images/fb521f92-8a01-4fba-af2a-553be4945563.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fc72e419-ab02-4147-9b5c-994e8c734ad6.webp",
+      "PackagePath": "staticwebassets/images/fc72e419-ab02-4147-9b5c-994e8c734ad6.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fcd583c1-fa7e-4805-9d40-78b3c74d2267.webp",
+      "PackagePath": "staticwebassets/images/fcd583c1-fa7e-4805-9d40-78b3c74d2267.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/fd3294f0-6412-4ea7-bb97-3fe16d02ee87.webp",
+      "PackagePath": "staticwebassets/images/fd3294f0-6412-4ea7-bb97-3fe16d02ee87.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/feebedb6-a824-4b83-a9d8-9b186b066a89.webp",
+      "PackagePath": "staticwebassets/images/feebedb6-a824-4b83-a9d8-9b186b066a89.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/ffcd234e-9e57-4028-b525-2974c1a1bf8d.jpg",
+      "PackagePath": "staticwebassets/images/ffcd234e-9e57-4028-b525-2974c1a1bf8d.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/hoachucmung.jpg",
+      "PackagePath": "staticwebassets/images/hoachucmung.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/hoacuoi.jpg",
+      "PackagePath": "staticwebassets/images/hoacuoi.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/hoasinhnhat.jpg",
+      "PackagePath": "staticwebassets/images/hoasinhnhat.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/hoatinhyeu.webp",
+      "PackagePath": "staticwebassets/images/hoatinhyeu.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/logo-momo.jpg",
+      "PackagePath": "staticwebassets/images/logo-momo.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/images/logo1.png",
+      "PackagePath": "staticwebassets/images/logo1.png"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/0b101d74-0590-42a1-94f1-2aab64fb578a.jpg",
+      "PackagePath": "staticwebassets/profile/0b101d74-0590-42a1-94f1-2aab64fb578a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/0b511a94-0349-4f04-bfa7-622ecceace70.jpg",
+      "PackagePath": "staticwebassets/profile/0b511a94-0349-4f04-bfa7-622ecceace70.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/1fff0509-cbbc-499c-81b6-46a4c7823e3b.jpg",
+      "PackagePath": "staticwebassets/profile/1fff0509-cbbc-499c-81b6-46a4c7823e3b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/20f6e61e-4dfe-4aee-8ec3-63076a491f84.jpg",
+      "PackagePath": "staticwebassets/profile/20f6e61e-4dfe-4aee-8ec3-63076a491f84.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/3530125b-f021-4c5b-bb47-fbc06785ad4b.jpg",
+      "PackagePath": "staticwebassets/profile/3530125b-f021-4c5b-bb47-fbc06785ad4b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/3627400d-27a2-46b9-8b56-caa22b5841c5.jpg",
+      "PackagePath": "staticwebassets/profile/3627400d-27a2-46b9-8b56-caa22b5841c5.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/4dd91e91-3aa4-40ed-b6c6-6dbbe73f691a.jpg",
+      "PackagePath": "staticwebassets/profile/4dd91e91-3aa4-40ed-b6c6-6dbbe73f691a.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/4fd82487-8269-45ae-9f89-a786492e99b2.jpg",
+      "PackagePath": "staticwebassets/profile/4fd82487-8269-45ae-9f89-a786492e99b2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/54ac546e-c52d-42f8-8395-f3dbba147afd.jpg",
+      "PackagePath": "staticwebassets/profile/54ac546e-c52d-42f8-8395-f3dbba147afd.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/7c244703-d338-447c-8f75-2fb39248858b.jpg",
+      "PackagePath": "staticwebassets/profile/7c244703-d338-447c-8f75-2fb39248858b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/83da6258-ad12-4868-8e41-a38eccbb9f24.png",
+      "PackagePath": "staticwebassets/profile/83da6258-ad12-4868-8e41-a38eccbb9f24.png"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/86f481b3-6a33-4ea4-aef2-226cd3b5dc75.jpg",
+      "PackagePath": "staticwebassets/profile/86f481b3-6a33-4ea4-aef2-226cd3b5dc75.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/8dc30595-2d2e-4381-8b39-d269dda1f76b.jpg",
+      "PackagePath": "staticwebassets/profile/8dc30595-2d2e-4381-8b39-d269dda1f76b.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/964f5f3a-382a-46a8-b46d-dd0555ce06e4.jpg",
+      "PackagePath": "staticwebassets/profile/964f5f3a-382a-46a8-b46d-dd0555ce06e4.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/a64ae7b2-4321-4a66-92e7-c8c5ca93f4ef.webp",
+      "PackagePath": "staticwebassets/profile/a64ae7b2-4321-4a66-92e7-c8c5ca93f4ef.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/b90a56ae-b895-4300-a644-299551c1d439.jpg",
+      "PackagePath": "staticwebassets/profile/b90a56ae-b895-4300-a644-299551c1d439.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/default-avatar.png",
+      "PackagePath": "staticwebassets/profile/default-avatar.png"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/ea0bad7b-eb2e-4e5b-a51f-f44b7fac244e.webp",
+      "PackagePath": "staticwebassets/profile/ea0bad7b-eb2e-4e5b-a51f-f44b7fac244e.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/profile/ea43c4a9-308c-4f87-87e5-47b683ce4102.jpg",
+      "PackagePath": "staticwebassets/profile/ea43c4a9-308c-4f87-87e5-47b683ce4102.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/060f559f-26f0-47fe-8d1e-c4b8ad2a36ac.jpg",
+      "PackagePath": "staticwebassets/uploads/060f559f-26f0-47fe-8d1e-c4b8ad2a36ac.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/0f65c633-92de-4604-b159-64fee5b79195.webp",
+      "PackagePath": "staticwebassets/uploads/0f65c633-92de-4604-b159-64fee5b79195.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/15f126fa-e832-4d5b-8678-671dd15f91a2.jpg",
+      "PackagePath": "staticwebassets/uploads/15f126fa-e832-4d5b-8678-671dd15f91a2.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/2d72e996-d0e8-4368-a10a-c1a6248d348d.webp",
+      "PackagePath": "staticwebassets/uploads/2d72e996-d0e8-4368-a10a-c1a6248d348d.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/34514afb-cc95-4158-8b3f-5ad471e3b23e.jpg",
+      "PackagePath": "staticwebassets/uploads/34514afb-cc95-4158-8b3f-5ad471e3b23e.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/682be646-2673-4073-af92-acf2232becb8.webp",
+      "PackagePath": "staticwebassets/uploads/682be646-2673-4073-af92-acf2232becb8.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/71f0ffb2-0e63-4604-9fdd-4697c3c4de70.webp",
+      "PackagePath": "staticwebassets/uploads/71f0ffb2-0e63-4604-9fdd-4697c3c4de70.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/768490d3-d2a6-4a33-9c99-9bf81d6c0c5b.webp",
+      "PackagePath": "staticwebassets/uploads/768490d3-d2a6-4a33-9c99-9bf81d6c0c5b.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/7bf46635-9346-4ae6-aa2f-a0477fa0fd51.webp",
+      "PackagePath": "staticwebassets/uploads/7bf46635-9346-4ae6-aa2f-a0477fa0fd51.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/97876728-7219-4003-9f67-da84f69d668d.jpg",
+      "PackagePath": "staticwebassets/uploads/97876728-7219-4003-9f67-da84f69d668d.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/af5a939e-7d3d-4bc2-97bc-c1cd3a26ea4c.webp",
+      "PackagePath": "staticwebassets/uploads/af5a939e-7d3d-4bc2-97bc-c1cd3a26ea4c.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/c198ec24-6f33-44f3-a8b8-b086cd469337.jpg",
+      "PackagePath": "staticwebassets/uploads/c198ec24-6f33-44f3-a8b8-b086cd469337.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/c3ca77f0-4e5e-4367-ae8d-cd00e8e0d52e.jpg",
+      "PackagePath": "staticwebassets/uploads/c3ca77f0-4e5e-4367-ae8d-cd00e8e0d52e.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/d3efb45f-bc8d-416f-b420-8d2daff0d7d0.jpg",
+      "PackagePath": "staticwebassets/uploads/d3efb45f-bc8d-416f-b420-8d2daff0d7d0.jpg"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/d65dd4d6-6d27-4c69-b7b7-3effa18975a5.webp",
+      "PackagePath": "staticwebassets/uploads/d65dd4d6-6d27-4c69-b7b7-3effa18975a5.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/ef271df0-369c-403d-ba0a-6f5f09dbb28a.webp",
+      "PackagePath": "staticwebassets/uploads/ef271df0-369c-403d-ba0a-6f5f09dbb28a.webp"
+    },
+    {
+      "Id": "/Users/lequangminh/Downloads/Bloomie (1) copy/wwwroot/uploads/fc7a21a8-6197-4ab7-9e2a-e3a44e9db303.jpg",
+      "PackagePath": "staticwebassets/uploads/fc7a21a8-6197-4ab7-9e2a-e3a44e9db303.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Bloomie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Bloomie.props",
+      "PackagePath": "build\\Bloomie.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Bloomie.props",
+      "PackagePath": "buildMultiTargeting\\Bloomie.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Bloomie.props",
+      "PackagePath": "buildTransitive\\Bloomie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

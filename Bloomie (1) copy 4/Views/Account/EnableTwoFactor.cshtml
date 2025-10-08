@@ -1,0 +1,16 @@
+@model dynamic
+@{
+    ViewData["Title"] = "Bật/Tắt Xác thực Hai Bước";
+    Layout = "~/Views/Shared/_IdentityLayout.cshtml";
+}
+
+<h2>Bật/Tắt Xác thực Hai Bước</h2>
+<form asp-action="EnableTwoFactor" method="post">
+    <div class="form-group">
+        <label>Xác thực hai bước hiện tại: @(ViewBag.TwoFactorEnabled ? "Đã bật" : "Đã tắt")</label>
+        <div>
+            <input type="checkbox" name="enable" @(ViewBag.TwoFactorEnabled ? "" : "checked") /> Bật xác thực hai bước
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+</form>
