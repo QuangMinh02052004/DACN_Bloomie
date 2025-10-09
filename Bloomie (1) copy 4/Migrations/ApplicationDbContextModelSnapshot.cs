@@ -573,6 +573,9 @@ namespace Bloomie.Migrations
                     b.Property<decimal?>("DiscountPercentage")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<string>("FeatureVector")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
 

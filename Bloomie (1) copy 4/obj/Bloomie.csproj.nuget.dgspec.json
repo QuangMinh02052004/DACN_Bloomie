@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lequangminh/Downloads/Bloomie (1) copy/Bloomie.csproj": {}
+    "/Users/lequangminh/Documents/DACN_Bloomie/Bloomie (1) copy 4/Bloomie.csproj": {}
   },
   "projects": {
-    "/Users/lequangminh/Downloads/Bloomie (1) copy/Bloomie.csproj": {
+    "/Users/lequangminh/Documents/DACN_Bloomie/Bloomie (1) copy 4/Bloomie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lequangminh/Downloads/Bloomie (1) copy/Bloomie.csproj",
+        "projectUniqueName": "/Users/lequangminh/Documents/DACN_Bloomie/Bloomie (1) copy 4/Bloomie.csproj",
         "projectName": "Bloomie",
-        "projectPath": "/Users/lequangminh/Downloads/Bloomie (1) copy/Bloomie.csproj",
+        "projectPath": "/Users/lequangminh/Documents/DACN_Bloomie/Bloomie (1) copy 4/Bloomie.csproj",
         "packagesPath": "/Users/lequangminh/.nuget/packages/",
-        "outputPath": "/Users/lequangminh/Downloads/Bloomie (1) copy/obj/",
+        "outputPath": "/Users/lequangminh/Documents/DACN_Bloomie/Bloomie (1) copy 4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lequangminh/.nuget/NuGet/NuGet.Config"
@@ -89,6 +89,22 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.ML.DataView": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -104,6 +120,10 @@
             "RestSharp": {
               "target": "Package",
               "version": "[112.1.0, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "itext7": {
               "target": "Package",

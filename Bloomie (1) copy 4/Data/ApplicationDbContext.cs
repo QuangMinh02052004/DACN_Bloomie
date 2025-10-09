@@ -36,16 +36,23 @@ namespace Bloomie.Data
         public DbSet<Reply> Replies { get; set; }
         public DbSet<Report> Reports { get; set; }
         public DbSet<UserLike> UserLikes { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
 
-            // Quan hệ giữa Product và Category (1-n)
-            builder.Entity<Product>()
-                .HasOne(p => p.Category)
-                .WithMany(c => c.Products)
-                .HasForeignKey(p => p.CategoryId);
+            // CẤU HÌNH MỚI: Thêm cấu hình cho FeatureVector
+            builder.Entity<Product>(entity =>
+            {
+                entity.Property(p => p.FeatureVector)
+                      .HasColumnType("nvarchar(max)")
+                      .IsRequired(false); // Cho phép NULL
 
+                // Quan hệ giữa Product và Category (1-n)
+                entity.HasOne(p => p.Category)
+                    .WithMany(c => c.Products)
+                    .HasForeignKey(p => p.CategoryId);
+            });
 
             // Quan hệ giữa Category và ParentCategory (1-n)
             builder.Entity<Category>()
@@ -53,18 +60,15 @@ namespace Bloomie.Data
                 .WithMany(c => c.SubCategories)
                 .HasForeignKey(c => c.ParentCategoryId);
 
-
             // Quan hệ giữa Product và ProductImage (1-n)
             builder.Entity<ProductImage>()
                 .HasOne(pi => pi.Product)
                 .WithMany(p => p.Images)
                 .HasForeignKey(pi => pi.ProductId);
 
-
             // Quan hệ nhiều-nhiều giữa Product và Promotion thông qua PromotionProduct
             builder.Entity<PromotionProduct>()
                 .HasKey(pp => new { pp.PromotionId, pp.ProductId }); // Khóa chính composite
-
 
             builder.Entity<PromotionProduct>()
                 .HasOne(pp => pp.Product)
@@ -206,7 +210,6 @@ namespace Bloomie.Data
                 .WithMany()
                 .HasForeignKey(ul => ul.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
-
         }
     }
 }

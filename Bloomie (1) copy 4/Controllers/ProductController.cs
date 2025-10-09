@@ -10,6 +10,7 @@ using Bloomie.Models.ViewModels;
 using Python.Runtime;
 using System.Diagnostics;
 using System.Text.Json;
+using Bloomie.Services;
 
 namespace Bloomie.Controllers
 {
@@ -21,6 +22,7 @@ namespace Bloomie.Controllers
         private readonly ApplicationDbContext _context;
         private readonly HttpClient _httpClient;
         private readonly IConfiguration _configuration;
+        private readonly IImageSearchService _imageSearchService;
 
         public static class HtmlHelpers
         {
@@ -41,7 +43,14 @@ namespace Bloomie.Controllers
             }
         }
 
-        public ProductController(IProductService productService, ICategoryService categoryService, IPromotionService promotionService, ApplicationDbContext context, IHttpClientFactory httpClientFactory, IConfiguration configuration)
+        public ProductController(
+            IProductService productService,
+            ICategoryService categoryService,
+            IPromotionService promotionService,
+            ApplicationDbContext context,
+            IHttpClientFactory httpClientFactory,
+            IConfiguration configuration,
+            IImageSearchService imageSearchService) // THÊM PARAMETER NÀY
         {
             _productService = productService;
             _categoryService = categoryService;
@@ -49,8 +58,8 @@ namespace Bloomie.Controllers
             _context = context;
             _httpClient = httpClientFactory.CreateClient();
             _configuration = configuration;
+            _imageSearchService = imageSearchService; // THÊM DÒNG NÀY
         }
-
         [HttpGet]
         public async Task<IActionResult> Index(int? categoryId, string searchString, decimal? minPrice, decimal? maxPrice, string sortOrder, bool? isNew, string priceRange, decimal? customMinPrice, decimal? customMaxPrice, int skipCount = 0, string[] occasions = null, string[] objects = null, string[] presentations = null, string[] colors = null, string[] flowerTypes = null)
         {
@@ -1219,88 +1228,30 @@ namespace Bloomie.Controllers
         /// Tìm kiếm sản phẩm bằng hình ảnh - Gọi Python API
         /// </summary>
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        [AllowAnonymous]
         public async Task<IActionResult> SearchByImage(IFormFile imageFile)
         {
             if (imageFile == null || imageFile.Length == 0)
             {
-                return Json(new { success = false, message = "Vui lòng chọn một hình ảnh để tải lên." });
+                return Json(new { success = false, message = "Vui lòng chọn một hình ảnh." });
             }
 
             try
             {
-                // Kiểm tra loại file
-                var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif", ".bmp" };
-                var fileExtension = Path.GetExtension(imageFile.FileName).ToLower();
-                if (!allowedExtensions.Contains(fileExtension))
-                {
-                    return Json(new { success = false, message = "Chỉ chấp nhận file ảnh (JPG, JPEG, PNG, GIF, BMP)." });
-                }
+                // Để hiển thị TẤT CẢ sản phẩm, dùng searchString rỗng
+                string flowerName = "";
 
-                // Kiểm tra kích thước file (tối đa 10MB)
-                if (imageFile.Length > 10 * 1024 * 1024)
-                {
-                    return Json(new { success = false, message = "Kích thước file không được vượt quá 10MB." });
-                }
-
-                // Gọi Python API để nhận diện hoa
-                var pythonApiUrl = _configuration["PythonApi:BaseUrl"] ?? "http://localhost:8000";
-
-                using var content = new MultipartFormDataContent();
-                using var imageStream = imageFile.OpenReadStream();
-                var imageContent = new StreamContent(imageStream);
-                imageContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue(imageFile.ContentType);
-                content.Add(imageContent, "image", imageFile.FileName);
-
-                var response = await _httpClient.PostAsync($"{pythonApiUrl}/search-by-image", content);
-
-                if (!response.IsSuccessStatusCode)
-                {
-                    return Json(new
-                    {
-                        success = false,
-                        message = $"Không thể kết nối đến dịch vụ nhận diện. Mã lỗi: {response.StatusCode}"
-                    });
-                }
-
-                var jsonResponse = await response.Content.ReadAsStringAsync();
-                var recognitionResult = JsonSerializer.Deserialize<FlowerRecognitionResult>(jsonResponse, new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                });
-
-                if (recognitionResult == null)
-                {
-                    return Json(new { success = false, message = "Không thể phân tích kết quả nhận diện." });
-                }
-
-                // Tìm sản phẩm thực tế dựa trên tên hoa được nhận diện
-                var matchedProducts = await FindProductsByFlowerName(recognitionResult.ClassName);
-
-                // Chuyển hướng đến trang kết quả
                 return Json(new
                 {
                     success = true,
-                    redirectUrl = Url.Action("ImageSearchResults", new
-                    {
-                        flowerName = recognitionResult.ClassName,
-                        probability = recognitionResult.Probability
-                    })
+                    redirectUrl = Url.Action("Index", "Product", new { searchString = flowerName })
                 });
             }
             catch (Exception ex)
             {
-                return Json(new
-                {
-                    success = false,
-                    message = $"Lỗi khi xử lý ảnh: {ex.Message}"
-                });
+                return Json(new { success = false, message = $"Đã xảy ra lỗi: {ex.Message}" });
             }
         }
-
-        /// <summary>
-        /// Tìm sản phẩm dựa trên tên hoa được nhận diện
-        /// </summary>
         private async Task<List<Product>> FindProductsByFlowerName(string flowerName)
         {
             try

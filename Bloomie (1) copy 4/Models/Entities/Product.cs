@@ -1,4 +1,6 @@
-﻿namespace Bloomie.Models.Entities
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Bloomie.Models.Entities
 {
     public class Product
     {
@@ -13,7 +15,7 @@
         public DateTime CreatedDate { get; set; }
         public decimal? DiscountPercentage { get; set; }
         public decimal? DiscountPrice => Price * (1 - (DiscountPercentage ?? 0) / 100);
-        public int PresentationStyleId { get; set; } 
+        public int PresentationStyleId { get; set; }
         public PresentationStyle? PresentationStyle { get; set; }
         public bool IsActive { get; set; } = true;
         public int CategoryId { get; set; }
@@ -25,5 +27,8 @@
         public List<InventoryTransaction> InventoryTransactions { get; set; } = new List<InventoryTransaction>();
         public ICollection<FlowerTypeProduct> FlowerTypeProducts { get; set; } = new List<FlowerTypeProduct>();
         public string Colors { get; set; }
+
+        [Column(TypeName = "nvarchar(max)")]
+        public string? FeatureVector { get; set; } // Cho phép NULL
     }
 }

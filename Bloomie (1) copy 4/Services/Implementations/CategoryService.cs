@@ -14,13 +14,25 @@ namespace Bloomie.Services.Implementations
             _context = context;
         }
 
-        public async Task<IEnumerable<Category>> GetAllCategoriesAsync()
+        public async Task<List<Category>> GetAllCategoriesAsync()
         {
-            return await _context.Categories
-                .Include(c => c.SubCategories)
-                .Include(c => c.ParentCategory)
-                .Include(c => c.Products)
-                .ToListAsync();
+            try
+            {
+                return await _context.Categories
+                    .Include(c => c.SubCategories)
+                    .Include(c => c.Products.Where(p => p.IsActive))
+                    .ThenInclude(p => p.Ratings)
+                    .AsNoTracking()
+                    .ToListAsync();
+            }
+            catch (Microsoft.Data.SqlClient.SqlException ex) when (ex.Message.Contains("FeatureVector"))
+            {
+                // Fallback khi column chưa tồn tại
+                return await _context.Categories
+                    .Include(c => c.SubCategories)
+                    .AsNoTracking()
+                    .ToListAsync();
+            }
         }
 
         public async Task<IEnumerable<Category>> GetTopLevelCategoriesAsync()
@@ -108,6 +120,12 @@ namespace Bloomie.Services.Implementations
             }
 
             await _context.SaveChangesAsync();
+        }
+
+        // SỬA LỖI: Triển khai phương thức interface thay vì ném exception
+        async Task<IEnumerable<Category>> ICategoryService.GetAllCategoriesAsync()
+        {
+            return await GetAllCategoriesAsync();
         }
     }
 }

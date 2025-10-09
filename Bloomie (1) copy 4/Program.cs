@@ -18,6 +18,7 @@ using Bloomie.Hubs;
 using Microsoft.AspNetCore.Antiforgery;
 using Microsoft.AspNetCore.Authentication.Facebook;
 using Microsoft.AspNetCore.Authentication.Twitter;
+using Bloomie.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,7 +27,8 @@ builder.Services.AddSignalR();
 // Connect MomoAPI
 builder.Services.Configure<MomoOptionModel>(builder.Configuration.GetSection("MomoAPI"));
 builder.Services.AddScoped<IMomoService, MomoService>();
-
+// Add this line in your service configuration
+builder.Services.AddScoped<IImageSearchService, ImageSearchService>();
 // Cấu hình logging
 builder.Services.AddLogging(logging =>
 {

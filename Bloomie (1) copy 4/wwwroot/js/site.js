@@ -1,4 +1,12 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+// site.js - Bloomie main JavaScript file
+console.log('Bloomie site.js loaded');
 
-// Write your JavaScript code.
+// Các hàm utility chung có thể đặt ở đây
+function formatPrice(price) {
+    return new Intl.NumberFormat('vi-VN').format(price);
+}
+
+// Xử lý chung cho toàn site
+document.addEventListener('DOMContentLoaded', function () {
+    console.log('DOM loaded');
+});
